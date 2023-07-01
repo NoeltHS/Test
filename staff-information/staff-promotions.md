@@ -17,39 +17,39 @@ This guide outlines all of the necessary information about the promotion process
 
 ## Trainee Team Member-Senior Team Member
 {:.text-red-300}
-Trainee, Junior, and Senior Team Members are required to attend training sessions in order to rank up. These training sessions are held multiple times throughout the day, allowing staff members many opportunities to receive a promotion. The schedule for these training sessions can be accessed through the in-game staff room or the communications server. 
+Trainee, Junior, and Senior Team Members must attend training sessions to progress in their ranks. These sessions are hosted multiple times a day, providing LRs with ample chances to earn promotions. The schedule for these training sessions can be accessed in the in-game staff room.
 
 ## Management Intern-Assistant Manager
 {:.text-red-300}
-To increase the chances of a promotion, Management Interns, Team Leaders, Store Supervisors, and Assistant Managers should actively participate in shifts and strive to gain recognition from the shift host. It is crucial to maintain professionalism, utilize proper grammar, and demonstrate dedication consistently. While Middle Ranks are not obligated to use grammar, it is mandatory if they choose to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are based on a combination of factors. It is important to refrain from hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, such as logged warnings and a potential demotion to the Customer rank. Additionally, Management Interns, Team Leaders, Store Supervisors, and Assistant Managers must be off cooldown to be eligible for a promotion. Another pathway for a promotion is by being noticed by an SHR outside of a shift. However, it is not permitted to recommend other staff members to an SHR for a promotion.
+To increase the likelihood of receiving a promotion, Management Interns, Team Leaders, Store Supervisors, and Assistant Managers should actively participate in shifts and strive to be recognized by a shift host. It is crucial to maintain professionalism, utilize proper grammar, and consistently demonstrate dedication. While Middle Ranks are not required to use grammar, it is necessary in-game if they wish to be considered for a promotion. Attending shifts and exhibiting exemplary behavior does not guarantee a promotion, as promotions are determined by a combination of factors. It is important to avoid hinting or complaining about not receiving a promotion, as this can result in disciplinary actions, including a logged warning or demotion to the Customer rank. Additionally, Management Interns, Team Leaders, Store Supervisors, and Assistant Managers must be off cooldown to be eligible for a promotion. Another pathway for a promotion is to be noticed by an SHR outside of a shift. Recommending other staff members to an SHR for a promotion is not permitted.
 
 ## Store Manager-Store Executive
 {:.text-red-300}
-There are multiple factors the administration team looks at when promoting a Store Manager to Store Director. The same applies to HR promotions.
+When considering promotions from Store Manager to Store Director, as well as promotions within the HR ranks, the administration team takes into account various factors.
 
-Store Managers wishing to receive a promotion should remain active on all BloxStreet games and its communications server, utilize proper grammar, behave professionally, and show dedication at all times. Junior Moderator+ can promote Store Managers at random times. These promotions are more difficult than Management Intern - Assistant Manager ones and often require more time and effort. Store Managers must prove to SHRs that they are prepared to fulfill the duties of an HR. Additionally, purchasing ranks will significantly decrease one's chances of a promotion to an HR rank. However, purchasing ranks will not restrict a player from earning an HR rank.
+To increase the chances of receiving a promotion, Store Managers should be active on all BloxStreet games and its communications server, consistently utilize proper grammar in-game, display professional behavior, and demonstrate dedication. Promotions for Store Managers are at the discretion of Junior Moderator+ and may occur at random times. These promotions are typically more challenging compared to promotions from Management Intern to Assistant Manager, requiring a greater investment of time and effort. Store Managers must prove to SHRs that they are fully prepared to undertake the responsibilities of an HR role.
 
 ### **Store Manager Promotion Guide:**
 {:.text-blue-000}
 {: .no_toc }
 
-> 1.   Store Managers should utilize proper grammar in all BloxStreet games if they wish to be recommended for a promotion.
-> 2.   Store Managers must possess a certain number of characteristics (professionalism, maturity, respect, etc.).
-> 3.   Having past moderation history (warnings, kicks, server bans, blacklists, etc.) will significantly decrease one's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
+> 1.   Store Managers must utilize proper grammar in all BloxStreet games.
+> 2.   Store Managers must possess a certain number of characteristics, such as professionalism, maturity, and respect.
+> 3.   Having past moderation history will significantly decrease one's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
 > 4.   Store Managers wishing to receive a promotion should remain active in the communications server. Talking in channels and attending events does help.
 > 5.   Store Managers should work frequently at the store and attend training sessions. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase one's chances of a promotion.
-> 6.   Do not suck up to SHRs for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping. 
+> 6.   Avoid sucking up to SHRs for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping. 
 > 7.   Hinting for a promotion will not benefit one in any way. Doing so will result in a logged warning and a demotion to Customer if repeated.
-> 8.   Upon encountering a disruptive customer, deal with them calmly and professionally. Follow the appropriate procedures for handling a disruptive customer. 
+> 8.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the appropriate procedures for handling a disruptive customer. 
 > 9.   Greetings should be unique and original. Copying and pasting, adding emojis, and using moderate vocabulary is strongly recommended.
-> 10.  It is recommended to have current or past experience as an MR+ at a well-known group (i.e. Pastriez, SizzleBurger, Koala Cafe). However, current or past experience is not  required. 
+> 10.  It is recommended to have current or past experience as an MR+ at a prominent establishment. However, current or past experience is not mandatory. 
 > 11.  Store Managers wishing to receive a promotion should not idle once or until their cooldown has ended. Store Manager promotions require a great deal of patience and consistency.
 
 > Keep in mind that these include only some requirements Store Managers must meet.
 
 ## Cooldowns 
 {:.text-red-300}
-Most BloxStreet ranks have cooldowns. A cooldown is a period of time in which a player cannot receive a promotion.
+Most BloxStreet ranks have cooldowns. A cooldown refers to a specific duration during which a player is ineligible to receive a promotion.
 
 | Cooldowns | 
 |:----------|
@@ -70,7 +70,7 @@ Working at the store while on cooldown will increase one's chances of a promotio
 
 ## Points 
 {:.text-red-300}
-Another way to rank up at BloxStreet is by earning points. Once a player has obtained their desired amount of points, they may claim a rank through the 'Shop' GUI. Note that photoshopping evidence of points and point grinding or cheating is strictly prohibited and will result in severe consequences. The amounts of points required to claim each rank can be found below.
+Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point grinding or cheating is strictly prohibited and will be met with severe consequences. The specific amount of points required to claim each rank can be found in the list provided below.
 
 | Points | 
 |:----------|
@@ -81,3 +81,5 @@ Another way to rank up at BloxStreet is by earning points. Once a player has obt
 | Store Manager: 5,000 |
 | Store Director: 8,000 |
 | Board of Directors: 12,000 |
+| Executive Assistant: 40,000 |
+| Store Executive: 50,000 |
