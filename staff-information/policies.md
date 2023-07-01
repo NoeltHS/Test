@@ -6,7 +6,7 @@ nav_order: 6
 ---
 # Policies
 {: .no_toc }
-Here, community members can find some of BloxStreet's policies.
+Below, community members can find some of BloxStreet's policies.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -14,57 +14,33 @@ Here, community members can find some of BloxStreet's policies.
 1. TOC
 {:toc}
 
-## Points Policy
-{:.text-red-300}
-BloxStreet offers players with an opportunity to claim ranks through a points system. Players may earn points by completing certain tasks or purchasing them with Robux.
-
-**Prior to earning or purchasing points, here are some things to keep in mind:**
-{:.text-red-000}
-* Lying about rank purchases or faking evidence of purchased points will result in a **permanent ban.** 
-* Abusing rank privileges will result in consequences. 
-* Claiming a rank through points will decrease a player’s chances of future promotions. The higher the rank purchased, the lower the chances of a promotion will be. SHRs encourage players to work their way up through hard work and dedication instead.
-* Players must abide by all rules and regulations, regardless of whether they purchased a rank or not. Those who fail to abide by all guidelines will be subject to the same moderation action as everyone else, including demotions, blacklists, and permanent bans. 
-
-
-## Reclaiming Policy
-{:.text-red-300}
-If a player has been demoted for any reason, they may not reclaim the rank they were originally demoted from. Players may also not reclaim a rank after receiving a blacklist. View our point regulations [here](https://support.bloxstreet.store/guides/points-guide.html#points-clarificationsregulations).
-
 ## Strike Policy
 {:.text-red-300}
 **Please note the following:**
 {:.text-red-000}
-* Only staff members ranked **Junior Moderator+** can hand out strikes. 
-* Strikes are **permanent.** Once assigned, they cannot be removed.
-* Receiving **three** strikes results in a demotion one rank down. 
-* Reranks are not offered once administrative action has taken place. Players are more than welcome to work their way back up.
+* The authority to issue strikes is limited to Junior Moderator+. It is important to note that strikes are permanent and cannot be removed once assigned.
+* Receiving **three** strikes results in a demotion one rank down. However, this may vary in some cases.
 
 ## Resignation Policy
 {:.text-red-300}
-Resignations are final for all ranks. Reranks are not offered if a player changes their mind. SHRs encourage players to think over resignations carefully, as they are ultimately irreversible. 
-
-Please keep in mind that SHRs **can** return to BloxStreet in certain circumstances. 
+Once a staff member resigns, it is considered final. BloxStreet does not offer reranks if a player changes their mind after resigning. As a result, it is strongly advised that players carefully consider their decision to resign, as it is an irreversible action. However, it is important to note that SHRs have the possibility to return to BloxStreet under certain circumstances.
 
 ## Rank Transfer Policy 
 {:.text-red-300}
-Staff members are allowed to transfer their rank onto another account. This may only be done once. If one wishes to do so, they may open a ticket in the BloxStreet communications server. 
+Staff members are permitted to transfer their rank to a different account, but this action can only be performed once. If a staff member intends to transfer their rank, they should open a ticket in the BloxStreet communications server for assistance. However, it is important to note that players who have been hacked or banned by Roblox are not permitted to transfer their rank to another account.
 
-Players may not transfer their rank onto another account if they have been hacked or banned by Roblox. Additionally, blacklisted and permanently banned players may not use the ";switchacc" command to bypass a punishment.
-
-## Hacked Policy 
+## Hacked or Banned Account Policy 
 {:.text-red-300}
-BloxStreet does not offer rank transfers if an account has been hacked. It is expected that players keep their accounts safe and secure. Staff members are fully responsible for their own accounts.
-
-If a staff member's account has been compromised, they must inform an SHR through a ticket immediately.
+BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player's responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member's account has been compromised, it is crucial for them to promptly inform an SHR through a ticket.
 
 ## Investigation Policy
 {:.text-red-300}
-If an SHR is investigating a staff member or a community member, the SHR has the right to demote that player to Customer until the investigation is complete. The SHR also has the right to remove any Discord role(s) from the player while the investigation is in-progress. Once the investigation is complete, the SHR will either rerank or take appropriate action on the player(s) involved. Additionally, SHRs who are investigating staff members or community members have the right to ask questions, which those involved must answer truthfully. Lastly, SHRs are not required to provide evidence to the players undergoing investigation.
+In the event that an SHR is conducting an investigation into a community member, the SHR has the authority to temporarily demote the player to the rank of Customer until the investigation is concluded. Furthermore, the SHR has the right to remove any Discord roles from the player while the investigation is ongoing. Once the investigation is finalized, the SHR will take appropriate action or re-rank the player(s) involved. Moreover, SHRs who are conducting investigations have the right to pose questions to the individuals involved, and it is expected that those individuals respond truthfully. However, it is important to note that SHRs are not obligated to provide evidence to the players who are undergoing an investigation.
 
 ## Refund Policy
 {:.text-red-300}
-BloxStreet does not offer refunds for **any** purchases. Prior to purchasing any of our products, including points, in-game cash, and game passes, keep this policy in mind.
+BloxStreet has a strict no-refund policy for all purchases, regardless of the item or product, including points, in-game cash, and game passes. It is essential to keep this policy in mind before making any purchases.
 
 ## Alternate Account Policy
 {:.text-red-300}
-Staff members may use alternate accounts to roleplay as a Customer, LR, or MR. However, staff members may not obtain an HR rank in any way on an alternate account.  Failure to abide by BloxStreet's guidelines on an alternate account will result in consequences for both accounts. Additionally, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
+Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxStreet's guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
