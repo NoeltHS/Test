@@ -32,16 +32,13 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Alternate account of a blacklisted or permanently banned player |
 | Announcement abuse | 
 | Bypassing or attempting to bypass | 
-| Claiming a rank after a blacklist/permanent ban appeal is accepted |
 | Claiming a rank while blacklisted |
-| Claiming an HR rank after resigning or being reformed |
 | Clarification regarding a rule that can only be answered by a Senior Administration member |
 | Cuff abuse | 
 | Dancing/standing on elevated surfaces - TEAM LEADER+ | 
 | Discrimination |
 | Encouragement of suicide or self-harm |
 | Exploiting, hacking, or glitching | 
-| Force verification |
 | Gossiping |
 | Homophobia |
 | HR reports |
@@ -57,9 +54,8 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Playing with ranking sticks or misusing them | 
 | Racism |
 | Raiding |
-| Rank transfers | 
-| Reclaiming a rank using old points after being demoted |
-| Reclaiming the same rank more than once |
+| Rank or point transfers | 
+| Claiming the same rank more than once |
 | Refusing to wear the correct uniform - TEAM LEADER+ |
 | Sexism |
 | Simping for a higher rank | 
@@ -86,7 +82,7 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
-| Hosting an unofficial shift or training session - contact an SHR through Direct Messages |
-| Development bugs - report game bugs through [Staff Feedback](https://discord.com/channels/323081832071561216/1022266747715330099) |
-| Development suggestions - suggest features through [Staff Feedback](https://discord.com/channels/323081832071561216/1022266747715330099) |
+| Hosting an unofficial shift or training session - ping an available SHR |
+| Development bugs - report game bugs in #bugs-and-suggestions |
+| Development suggestions - suggest features in #bugs-and-suggestions |
 {:.text-red-200} 
