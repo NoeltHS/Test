@@ -78,7 +78,7 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively - contact an Executive Assistant+ |
 | Disrespecting, arguing, or ignoring an HR - contact an Executive Assistant+ |
 | MRs failing to hide TSA commands - contact an Executive Assistant+ | 
-| Using :view on an SHR - for MRs - contact an Executive Assistant+ |
+| Using :view on an SHR - for MRs - verbally warn the staff member |
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
