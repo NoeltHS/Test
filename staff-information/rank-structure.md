@@ -71,7 +71,7 @@ Store Director is the twelfth rank at BloxStreet, and it is considered the first
 ### **Board of Directors**
 {:.text-red-300}
 {: .no_toc }
-Board of Directors is the thirteenth rank at BloxStreet, and it is considered an HR rank. Board of Directors have been recognized by an SHR or have earned 12,000 points. They have significant responsibilities, including working at departments or overseeing store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings and shifts, restocking items, and cleaning spills. Board of Directors are granted access to Admin commands and are expected to use them responsibly. To be considered for a promotion, Board of Directors must complete their one-month cooldown period. Additionally, they must be noticed by an SHR.
+Board of Directors is the thirteenth rank at BloxStreet, and it is considered an HR rank. Board of Directors have been recognized by an SHR or have earned 12,000 points. They have significant responsibilities, including working at departments or overseeing store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings and shifts, restocking items, and cleaning spills. Board of Directors are granted access to Admin commands and are expected to use them responsibly. To be considered for a promotion, Board of Directors must complete their one-month cooldown period. Additionally, they must be noticed by an SHR or earn 40,000 points.
 
 ### **Executive Assistant**
 {:.text-red-300}
