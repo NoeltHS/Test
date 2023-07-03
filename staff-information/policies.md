@@ -27,7 +27,7 @@ Once a staff member resigns, it is considered final. BloxStreet does not offer r
 
 ## Rank Transfer Policy 
 {:.text-red-300}
-Staff members are permitted to transfer their rank to a different account, but this action can only be performed once. If a staff member intends to transfer their rank, they should open a ticket in the BloxStreet communications server for assistance. However, it is important to note that players who have been hacked or banned by Roblox are not permitted to transfer their rank to another account.
+Staff members are permitted to transfer their rank to a different account, but this action can only be performed once. If a staff member intends to transfer their rank, they should open a ticket in the BloxStreet communications server for assistance. It is important to note that a staff member must have access to both accounts. Please keep in mind that players who have been hacked or banned by Roblox are not permitted to transfer their rank to another account.
 
 ## Hacked or Banned Account Policy 
 {:.text-red-300}
