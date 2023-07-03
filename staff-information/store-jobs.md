@@ -21,9 +21,9 @@ While on duty, uniforms must be visible. Professionalism to a certain degree is 
 
 Use the following commands to go off and on duty.
 
-* **!startwork** -> Allows staff members to go on duty.
+* **!startwork** -> Allows staff members to go on duty (used for working).
 
-* **!stopwork** -> Allows staff members to go off duty.
+* **!stopwork** -> Allows staff members to go off duty (used for breaks or engaging in conversations).
 
 While on duty, staff members are expected to work and fulfill specific tasks. These tasks include actively working at a station and arresting shoplifters. If a staff member needs to take a break, they may go off duty. It is essential to note that maintaining professionalism while off duty is required, as staff members are still representing BloxStreet. HRs are not permitted to go off duty, as they have additional responsibilities.
 
