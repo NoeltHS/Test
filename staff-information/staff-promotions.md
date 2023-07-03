@@ -35,9 +35,9 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 
 > 1.   Store Managers must utilize proper grammar in all BloxStreet games.
 > 2.   Store Managers must possess a certain number of characteristics, such as professionalism, maturity, and respect.
-> 3.   Having past moderation history will significantly decrease one's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
+> 3.   Having past moderation history will significantly decrease an individual's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
 > 4.   Store Managers wishing to receive a promotion should remain active in the communications server. Talking in channels and attending events does help.
-> 5.   Store Managers should work frequently at the store and attend training sessions. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase one's chances of a promotion.
+> 5.   Store Managers should work frequently at the store and attend training sessions. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase an individual's chances of a promotion.
 > 6.   Avoid sucking up to SHRs for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping. 
 > 7.   Hinting for a promotion will not benefit one in any way. Doing so will result in a logged warning and a demotion to Customer if repeated.
 > 8.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the appropriate procedures for handling a disruptive customer. 
@@ -66,7 +66,7 @@ Most BloxStreet ranks have cooldowns. A cooldown refers to a specific duration d
 | Executive Assistant: 1 month |
 | Store Executive: 3 months |
 
-Working at the store while on cooldown will increase one's chances of a promotion.
+Working at the store while on cooldown will increase an individual's chances of a promotion.
 
 ## Points 
 {:.text-red-300}
