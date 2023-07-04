@@ -13,16 +13,14 @@ nav_order: 2
 1. TOC
 {:toc}
 
-This guide is intended for everyone.
+Below is a compilation of BloxStreet's punishments. Certain punishments only pertain to staff, while others are applicable to all community members.
 
-Below is a list of rules and their corresponding punishments. Some rules may only apply to staff, while others may apply to everyone.
-
-Some things to note:
-- Higher ranks may receive more severe punishments.
-- All of the listed punishments are subject to change based on the severity of the user's actions.
-- Not knowing the rules can still lead to a punishment.
-- Some staff punishments can apply to non-staff.
-- Not all punishments are listed here. Use common sense.
+Note the following:
+- Higher ranks may be subject to more severe punishments.
+- All punishments are subject to change depending on the severity of the community member's actions.
+- Lack of awareness regarding the rules does not exempt an individual from receiving a punishment.
+- Certain punishments designated for staff members may also be applicable to non-staff.
+- Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
 
 ## Player Punishments
 {: .text-red-300 } 
