@@ -7,5 +7,3 @@ permalink: /guides
 ---
 
 # Guides
-
-Here, staff members can find some of the guides they need.
