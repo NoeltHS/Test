@@ -2,7 +2,7 @@
 layout: default
 title: Punishment Guide
 parent: Guides
-nav_order: 2
+nav_order: 3
 ---
 # Punishment Guide
 {: .no_toc }
