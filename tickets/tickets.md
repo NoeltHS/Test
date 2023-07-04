@@ -8,5 +8,4 @@ permalink: /tickets
 
 
 # Tickets
-Here, community members can find information on creating tickets in BloxStreet's Discord server.
  
