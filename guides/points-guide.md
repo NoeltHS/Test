@@ -14,7 +14,7 @@ nav_order: 4
 1. TOC
 {:toc}
 
-At BloxStreet, we offer players an alternative method to advance their ranks, and that is by utilizing our points system. Points can be acquired by accomplishing specific tasks or by purchasing them with Robux. We highly recommend players who intend to or have already bought points to thoroughly review this guide. 
+At BloxStreet, we offer players an alternative method to advance their ranks, and that is by utilizing our points system. Points can be acquired by accomplishing specific tasks or by purchasing them with Robux. Players who intend to or have already bought points should thoroughly review this guide.
 
 ## Points Policy
 {: .text-red-300 }
