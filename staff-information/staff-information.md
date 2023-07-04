@@ -7,4 +7,3 @@ permalink: /staff-information
 ---
 
 # Staff Information
-Here, staff members can find information regarding tasks and duties at BloxStreet.
