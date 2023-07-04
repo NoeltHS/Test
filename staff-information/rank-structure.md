@@ -26,17 +26,17 @@ Noted Customer is the third rank at BloxStreet. Noted Customers are individuals 
 ### **Trainee Team Member** 
 {: .text-yellow-300 }
 {: .no_toc }
-Trainee Team Member is the fourth rank at BloxStreet, and it is considered an LR rank. Trainee Team Members are newly recruited staff members who have successfully completed the quiz but are not yet fully trained. They are permitted to work in all store departments, assist in restocking empty shelves, and clean spills. In order to receive a promotion, Trainee Team Members must attend and successfully complete a training session.
+Trainee Team Member is the fourth rank at BloxStreet, and it is considered an LR rank. Trainee Team Members are newly recruited staff members who have successfully completed the quiz but are not yet fully trained. They are permitted to work in all store departments, assist in restocking empty shelves, and clean spills. In order to receive a promotion, Trainee Team Members must attend and satisfactorily complete a training session.
 
 ### **Junior Team Member**
 {: .text-yellow-300 }
 {: .no_toc }
-Junior Team Member is the fifth rank at BloxStreet, and it is considered an LR rank. Junior Team Members have successfully attended and passed one training session. They are permitted to work in all store departments, restock empty shelves, and clean spills. Moreover, Junior Team Members+ have the opportunity to cuff shoplifters by purchasing cuffs for 300 Robux. In order to receive a promotion, Junior Team Members must attend and successfully complete a training session.
+Junior Team Member is the fifth rank at BloxStreet, and it is considered an LR rank. Junior Team Members have successfully attended and passed one training session. They are permitted to work in all store departments, restock empty shelves, and clean spills. Moreover, Junior Team Members+ have the opportunity to cuff shoplifters by purchasing cuffs for 300 Robux. In order to receive a promotion, Junior Team Members must attend and satisfactorily complete a training session.
 
 ### **Senior Team Member**
 {: .text-yellow-300 }
 {: .no_toc }
-Senior Team Member is the sixth rank at BloxStreet, and it is considered an LR rank. Senior Team Members have successfully attended and passed two training sessions. They are permitted to work in all store departments, restock empty shelves, and clean spills. In order to receive a promotion, Senior Team Members must attend and successfully complete a final training session.
+Senior Team Member is the sixth rank at BloxStreet, and it is considered an LR rank. Senior Team Members have successfully attended and passed two training sessions. They are permitted to work in all store departments, restock empty shelves, and clean spills. In order to receive a promotion, Senior Team Members must attend and satisfactorily complete a final training session.
 
 ### **Management Intern**
 {: .text-yellow-300 }
