@@ -88,8 +88,8 @@ Some things to note:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Team Leader+ |
-| Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Team Leader+ |
+| Trolling/unprofessionalism at alliances | Demotion to Customer | Team Leader+ |
+| Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer | Team Leader+ |
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Demotion one rank down | Store Supervisor+ |
 | Failing to hide TSA commands | One verbal warning and then a demotion one rank down | Store Supervisor+ |
 | Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
@@ -108,10 +108,9 @@ Some things to note:
 | ------ | ---------- | ---------- |
 | Lack of grammar | Logged warning and a demotion to Customer if repeated | High Ranks |
 | Hosting an unofficial shift or training session | Logged warning and a demotion to Customer if repeated | High Ranks |
-| Announcement abuse | Logged warning or a blacklist - depending on the severity | High Ranks |
-| Trolling or behaving unprofessionally on an alternate account | Demotion or/and blacklist, depending on the severity of the user's actions | High Ranks |
+| Announcement abuse | Logged warning or a blacklist | High Ranks |
+| Trolling or behaving unprofessionally on an alternate account | Demotion and/or blacklist | High Ranks |
 | Abusing the group shout | Logged warning or permanent ban | High Ranks |
-| Claiming an HR rank after resigning or being reformed | Permanent ban | High Ranks
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Free ranking | Permanent ban | Executive Assistant+ |
 
