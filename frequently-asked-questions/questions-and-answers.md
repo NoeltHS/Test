@@ -14,17 +14,17 @@ Here, community members can find answers to frequently asked questions.
 {: .no_toc }
 In order to work at BloxStreet, visit the [Quiz Center](https://www.roblox.com/games/652098479/Quiz-Center) and successfully pass the quiz. You will then be ranked to Trainee Team Member, the first LR rank.
 
-### I am currently a Trainee, Junior, or Senior Team Member. How can I be promoted?
+### I am currently a Trainee, Junior, or Senior Team Member. How can I get promoted?
 {: .text-red-300 }
 {: .no_toc }
 Trainee, Junior, and Senior Team Members must attend training sessions to rank up. More information regarding promotions for these ranks can be found [here](https://support.bloxstreet.store/staff-information/staff-promotions.html#trainee-team-member-senior-team-member).
 
-### I am currently a Management Intern, Team Leader, Store Supervisor, or Assistant Manager. How can I be promoted?
+### I am currently a Management Intern, Team Leader, Store Supervisor, or Assistant Manager. How can I get promoted?
 {: .text-red-300 }
 {: .no_toc }
 Management Interns, Team Leaders, Store Supervisors, and Assistant Managers must attend shifts to rank up. More information regarding promotions for these ranks can be found [here](https://support.bloxstreet.store/staff-information/staff-promotions.html#management-intern-assistant-manager).
 
-### I am currently a Store Manager. How can I be promoted?
+### I am currently a Store Manager. How can I get promoted?
 {: .text-red-300 }
 {: .no_toc }
 More information about promotions for Store Managers can be found [here](https://support.bloxstreet.store/staff-information/staff-promotions.html#store-manager-store-executive).
