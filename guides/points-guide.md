@@ -2,7 +2,7 @@
 layout: default
 title: Points Guide
 parent: Guides
-nav_order: 3
+nav_order: 2
 ---
 
 # Points Guide
