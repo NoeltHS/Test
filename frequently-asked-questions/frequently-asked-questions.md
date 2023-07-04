@@ -7,5 +7,3 @@ permalink: /Frequently-Asked-Questions
 ---
 
 # Frequently Asked Questions
-
-Here, community members can find answers to frequently asked questions.
