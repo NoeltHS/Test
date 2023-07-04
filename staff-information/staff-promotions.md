@@ -40,7 +40,7 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 > 5.   Store Managers should work frequently at the store and attend training sessions. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase an individual's chances of a promotion.
 > 6.   Avoid sucking up to SHRs for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping. 
 > 7.   Hinting for a promotion will not benefit one in any way. Doing so will result in a logged warning and a demotion to Customer if repeated.
-> 8.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the appropriate procedures for handling a disruptive customer. 
+> 8.   Upon encountering a disruptive customer, deal with them calmly and professionally. Refer to the [appropriate procedures](https://support.bloxstreet.store/guides/punishment-guide.html) for handling a disruptive customer. 
 > 9.   Greetings should be unique and original. Copying and pasting, adding emojis, and using moderate vocabulary is strongly recommended.
 > 10.  It is recommended to have current or past experience as an MR+ at a prominent establishment. However, current or past experience is not mandatory. 
 > 11.  Store Managers wishing to receive a promotion should not idle once or until their cooldown has ended. Store Manager promotions require a great deal of patience and consistency.
