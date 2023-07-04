@@ -78,7 +78,6 @@ Some things to note:
 | Crowding or refusing to disperse | Server ban | Staff |
 | Gossiping | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
-| Reclaiming a rank using old points after being demoted | Permanent ban | Staff |
 | Reclaiming a rank while blacklisted | Permanent ban | Staff |
 | Reclaiming the same rank more than once | Permanent ban | Staff |
 | Simping for a higher rank | Permanent ban | Staff |
