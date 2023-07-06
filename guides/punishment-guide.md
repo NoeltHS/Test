@@ -86,7 +86,6 @@ Note the following:
 | Advertising in-game | Blacklist | Team Leader+ |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing on elevated surfaces, etc.) | Blacklist | Team Leader+ |
 | Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
-| Leaking chats or confidential information | Permanent ban | Assistant Manager+ |
 
 
 ## HR+ Punishments
@@ -101,3 +100,4 @@ Note the following:
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Trolling or behaving unprofessionally on an alternate account | Demotion and/or blacklist | High Ranks |
 | Free ranking | Permanent ban | Executive Assistant+ |
+| Leaking chats or confidential information | Permanent ban | High Ranks |
