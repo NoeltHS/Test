@@ -14,8 +14,6 @@ nav_order: 2
 1. TOC
 {:toc}
 
-TSA is BloxStreet's administrative system and anti-exploit, custom developed by axcracy and TheCakeChicken. TSA takes the form of a Discord bot, Roblox module, and administrative web panel. Those with TSA permissions can utilize these to perform their duties.
-
 ### Commands
 {: .text-red-300 }
 #### 1A - Permission Levels
@@ -38,7 +36,7 @@ All members who are ranked Store Supervisor+ will gain access to various command
 | Store Developer          | Creator | 
 | Group Owner           | Creator | 
 
-Depending on the role, certain commands can be executed. For example, users with Moderator commands **cannot** run :pban. However, players with Super Admin may.
+Depending on the role, certain commands can be executed.
 
 #### 1B - Executing Commands
 {: .text-grey-dk-000 }
@@ -77,8 +75,6 @@ Click [here](https://status.bloxstreet.store) to view the status of various TSA 
 {: .text-red-300 }
 This is the main section of the document. It will outline the acceptable and unacceptable usages of admin commands.
 
-All major admin abuse (running :pban all, etc.) is logged and will result in an instant punishment! The command will be immediately canceled, and SHRs will be notified.
-
 #### 4A - All Commands Usage
 {: .text-grey-dk-000 }
 {: .no_toc }
@@ -92,15 +88,13 @@ When executing commands, be sure to type at least 50% of the player's username.
 | :kick (Store Director+) | Use this command to update in-game ranks, kick failed or passed LRs at a training session, or for any other valid reason. |
 | :ban (Store Director+) | Use this command for trollers, rule violators, removing a blacklisted or permanently banned user, or for  other valid reason. |
 | :unban (Store Director+) | Use this command if an HR accidentally bans the wrong person or if an invalid ban reason was put. | 
-| :pban (Junior Moderator+) | Use this command to permanently ban players (valid reasons are on the Punishment Guide). | 
-| :sm / :m  / :fm (Junior Moderator+) | Use this command to make announcements in the store or at training sessions. | 
-| :shutdown (Junior Moderator+ & the host of a training) | Use this command to conclude a training session after everyone is finished. SHRs may use this command if several players are banned from a server as a result of an admin abuse attack, for development updates, or if a server is lagging and nonfunctional. This command may not be used without valid reasoning. |
+| :sm / :m  | Use this command to make announcements in the store or at training sessions. | 
+| :shutdown (The host of a training) | Use this command to conclude a training session after everyone is finished. |
 | :slock / unslock (Host of a training session) | Use this command to lock a training session at :00. This command should not be used to unlock a server during a training session. |
 | :tp / :bring (Store Director+) | Use this command if a player is stuck somewhere and needs to be freed. |
 | :to | Use this command to be teleported to another player, as well as for other valid reasons. |
-| :view / :unview | Use this command to watch suspicious players (example: exploiters). Do not use this command to stalk SHRs or view shift hosts. | 
+| :view / :unview | Use this command to watch suspicious players (example: exploiters). | 
 | :ff / :unff | Use this command for LRs who pass a training session and need to be taken to the ranking line. | 
-| :fly (Junior Moderator+) | SHRs should use this command to supervise the store or a training session. | 
 
 
 
@@ -109,7 +103,6 @@ When executing commands, be sure to type at least 50% of the player's username.
 | _:cmds_ |
 | _:bans_           |
 | _:info_         |
-| _:pm (Junior Moderator+)_           |
 | _:admins_           |
 | _:chatlogs_           |
 | _:logs_           |
