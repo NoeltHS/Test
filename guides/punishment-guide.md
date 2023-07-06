@@ -29,19 +29,19 @@ Note the following:
 | ------ | ---------- | ---------- |
 | Advertising in-game | Server ban | Everyone |
 | Alternate account of a server banned user | Server ban | Everyone |
-| Crowding (5+ players) or refusing to disperse | Server ban | Everyone |
+| Bypassing or attempting to bypass | Server ban | Everyone |
+| Crowding (5+ players) | Verbal warning and then a server ban | Everyone |
 | Dancing/standing on elevated surfaces | Server ban | Everyone |
 | Disrespecting others | Server ban | Everyone |
 | Failure to comply by an HR's orders | Server ban | Everyone |
+| Glitching | Server ban | Everyone |
 | Inciting a raid | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Trolling | Server ban | Everyone |
 | Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | 
-| Bypassing or attempting to bypass | Permanent ban | Everyone |
-| Discrimination against race, sexual orientation, or gender | Permanent ban | Everyone |
+| Discrimination in any way | Permanent ban | Everyone |
 | Discussing inappropriate subjects | Permanent ban | Everyone |
-| Exploiting, hacking, or glitching | Permanent ban | Everyone |
-| Homophobia | Permanent ban | Everyone |
+| Exploiting | Permanent ban | Everyone |
 | Impersonation | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
 | Inappropriate behavior or roleplay | Permanent ban | Everyone |
@@ -49,9 +49,7 @@ Note the following:
 | Major death threats | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
 | Playing inappropriate or loud audios | Permanent ban | Everyone |
-| Racism | Permanent ban | Everyone |
 | Raiding | Permanent ban | Everyone |
-| Sexism | Permanent ban | Everyone |
 | Encouragement of suicide or self-harm | Permanent ban | Everyone |
 | Threatening an SHR | Permanent ban | Everyone |
 
@@ -62,18 +60,14 @@ Note the following:
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
 | Advertising in-game | Server ban and a demotion to Customer | Low Ranks |
-| Dancing/standing on elevated surfaces | Server ban and a demotion to Customer | Low Ranks |
-| Refusal to wear correct uniform | Server ban and a demotion to Customer | Low Ranks |
-| Trolling or spamming | Server ban and a demotion to Customer | Low Ranks |
-| Unprofessionalism | Server ban and a demotion to Customer | Low Ranks |
-| Faking a resignation | Verbal warning | Staff |
+| Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing or standing on elevated surfaces, etc.) | Server ban and a demotion to Customer | Low Ranks |
 | Wearing the incorrect uniform | Verbal warning | Staff |
 | Hinting for/complaining about a promotion | Logged warning and a demotion to Customer if repeated | Staff |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Point grinding | Logged warning and a demotion to Customer | Staff |
 | Point cheating | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
-| Crowding or refusing to disperse | Server ban | Staff |
+| Crowding (5+ players) | Verbal warning and then a server ban | Staff |
 | Claiming the same rank more than once | Permanent ban | Staff |
 | Gossiping | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
@@ -86,18 +80,14 @@ Note the following:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Trolling/unprofessionalism at alliances | Demotion to Customer | Team Leader+ |
-| Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer | Team Leader+ |
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Demotion one rank down | Store Supervisor+ |
-| Failing to hide TSA commands | One verbal warning and then a demotion one rank down | Store Supervisor+ |
-| Using :view on an SHR or the shift host | Verbal warning | Store Supervisor+ |
+| Trolling/unprofessionalism at alliances or non-affiliated establishments | Demotion to Customer | Team Leader+ |
+| Unnecessarily or excessively using admin commands | Demotion one rank down | Store Supervisor+ |
+| Failing to hide admin commands | One verbal warning and then a demotion one rank down | Store Supervisor+ |
 | Advertising in-game | Blacklist | Team Leader+ |
-| Dancing/standing on elevated surfaces | Blacklist | Team Leader+ |
-| Refusal to wear correct uniform | Blacklist | Team Leader+ |
-| Trolling or spamming | Blacklist | Team Leader+ |
-| Unprofessionalism | Blacklist | Team Leader+ |
+| Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing on elevated surfaces, etc.) | Blacklist | Team Leader+ |
 | Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
 | Leaking chats or confidential information | Permanent ban | Assistant Manager+ |
+
 
 ## HR+ Punishments
 {: .text-red-300 } 
@@ -111,4 +101,3 @@ Note the following:
 | Abusing the group shout | Logged warning or permanent ban | High Ranks |
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Free ranking | Permanent ban | Executive Assistant+ |
-
