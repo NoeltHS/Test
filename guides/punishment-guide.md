@@ -27,10 +27,10 @@ Note the following:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
+| Crowding (5+ players) | Verbal warning and then a server ban | Everyone |
 | Advertising in-game | Server ban | Everyone |
 | Alternate account of a server banned user | Server ban | Everyone |
 | Bypassing or attempting to bypass | Server ban | Everyone |
-| Crowding (5+ players) | Verbal warning and then a server ban | Everyone |
 | Dancing/standing on elevated surfaces | Server ban | Everyone |
 | Disrespecting others | Server ban | Everyone |
 | Failure to comply by an HR's orders | Server ban | Everyone |
