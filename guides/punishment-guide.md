@@ -59,15 +59,15 @@ Note the following:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Advertising in-game | Server ban and a demotion to Customer | Low Ranks |
-| Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing or standing on elevated surfaces, etc.) | Server ban and a demotion to Customer | Low Ranks |
 | Wearing the incorrect uniform | Verbal warning | Staff |
+| Crowding (5+ players) | Verbal warning and then a server ban | Staff |
 | Hinting for/complaining about a promotion | Logged warning and a demotion to Customer if repeated | Staff |
+| Point grinding | Logged warning and a demotion to Customer if repeated | Staff |
+| Advertising in-game | Demotion to Customer | Low Ranks |
+| Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing or standing on elevated surfaces, etc.) | Demotion to Customer | Low Ranks |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
-| Point grinding | Logged warning and a demotion to Customer | Staff |
 | Point cheating | Demotion to Customer | Staff |
 | Cuff abuse | Blacklist | Staff |
-| Crowding (5+ players) | Verbal warning and then a server ban | Staff |
 | Claiming the same rank more than once | Permanent ban | Staff |
 | Gossiping | Permanent ban | Staff |
 | Lying to an SHR or faking evidence of purchased points | Permanent ban | Staff |
