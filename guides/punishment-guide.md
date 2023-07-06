@@ -85,7 +85,7 @@ Note the following:
 | Trolling/unprofessionalism at alliances or non-affiliated establishments | Demotion to Customer | Team Leader+ |
 | Advertising in-game | Blacklist | Team Leader+ |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing on elevated surfaces, etc.) | Blacklist | Team Leader+ |
-| Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
+| Abusing the warning/kick system | Permanent ban | Store Supervisor+ |
 
 
 ## HR+ Punishments
