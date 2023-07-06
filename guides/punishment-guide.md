@@ -80,9 +80,9 @@ Note the following:
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Trolling/unprofessionalism at alliances or non-affiliated establishments | Demotion to Customer | Team Leader+ |
+| Failing to hide admin commands | Verbal warning and then a demotion one rank down | Store Supervisor+ |
 | Unnecessarily or excessively using admin commands | Demotion one rank down | Store Supervisor+ |
-| Failing to hide admin commands | One verbal warning and then a demotion one rank down | Store Supervisor+ |
+| Trolling/unprofessionalism at alliances or non-affiliated establishments | Demotion to Customer | Team Leader+ |
 | Advertising in-game | Blacklist | Team Leader+ |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing on elevated surfaces, etc.) | Blacklist | Team Leader+ |
 | Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
@@ -96,8 +96,8 @@ Note the following:
 | ------ | ---------- | ---------- |
 | Lack of grammar | Logged warning and a demotion to Customer if repeated | High Ranks |
 | Hosting an unofficial shift or training session | Logged warning and a demotion to Customer if repeated | High Ranks |
-| Announcement abuse | Logged warning or a blacklist | High Ranks |
-| Trolling or behaving unprofessionally on an alternate account | Demotion and/or blacklist | High Ranks |
 | Abusing the group shout | Logged warning or permanent ban | High Ranks |
+| Announcement abuse | Logged warning or a blacklist | High Ranks |
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
+| Trolling or behaving unprofessionally on an alternate account | Demotion and/or blacklist | High Ranks |
 | Free ranking | Permanent ban | Executive Assistant+ |
