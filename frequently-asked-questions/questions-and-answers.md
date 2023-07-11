@@ -147,9 +147,9 @@ No.
 ### What is the Public Relations Department?
 {: .text-red-300 }
 {: .no_toc }
-The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, and [EclipseIcy](https://www.roblox.com/users/1247632079/profile) is the Co-Lead of Public Relations. [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) is the Upper Management of Public Relations.
+The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations, and [EclipseIcy](https://www.roblox.com/users/1247632079/profile) is the Co-Lead of Public Relations. [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) is the Upper Management of Public Relations. [loveinheIl](https://www.roblox.com/users/1599452692/profile) is an Assistant of Public Relations.
 
 ### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles HR reforms and HR inactivity notices. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile) is the Upper Management of Staffing. [7_lxx](https://www.roblox.com/users/1659060021/profile), [mmqrko](https://www.roblox.com/users/1413147204/profile), and [Natnicxox](https://www.roblox.com/users/2373196423/profile) and are Assistants of Staffing.
+The Staffing Department handles HR reforms and HR inactivity notices. [f1reworks](https://www.roblox.com/users/842838904/profile) is the Lead of Staffing, and [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Co-Lead of Staffing. [discentted](https://www.roblox.com/users/84690789/profile) is the Upper Management of Staffing. [7_lxx](https://www.roblox.com/users/1659060021/profile) and [Natnicxox](https://www.roblox.com/users/2373196423/profile) are Assistants of Staffing.
