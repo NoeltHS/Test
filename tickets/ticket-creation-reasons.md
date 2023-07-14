@@ -31,16 +31,13 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Advertising in-game - TEAM LEADER+ |
 | Alternate account of a blacklisted or permanently banned player |
 | Announcement abuse | 
-| Bypassing or attempting to bypass | 
 | Claiming a rank while blacklisted |
 | Clarification regarding a rule that can only be answered by a Senior Administration member |
 | Cuff abuse | 
-| Dancing/standing on elevated surfaces - TEAM LEADER+ | 
-| Discrimination |
+| Discrimination in any way |
 | Encouragement of suicide or self-harm |
-| Exploiting, hacking, or glitching | 
+| Exploiting | 
 | Gossiping |
-| Homophobia |
 | HR reports |
 | Inappropriate avatar or username | 
 | Inappropriate roleplay or behavior | 
@@ -52,17 +49,13 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Outdated information on an official BloxStreet source |
 | Playing inappropriate or loud audios | 
 | Playing with ranking sticks or misusing them | 
-| Racism |
 | Raiding |
 | Rank or point transfers | 
 | Claiming the same rank more than once |
-| Refusing to wear the correct uniform - TEAM LEADER+ |
-| Sexism |
 | Simping for a higher rank | 
 | Trolling or behaving unprofessionally on an alternate account |
-| Trolling, spamming, capitals abuse, or unprofessionalism - TEAM LEADER+ |
+| Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing or standing on elevated surfaces, etc.) - TEAM LEADER+ |
 | Trolling/unprofessionalism at alliances or non-affiliated establishments - TEAM LEADER+ | 
-| Using :view on an SHR - HRs |
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
@@ -70,7 +63,7 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 
 | Unacceptable Reasons | 
 | ------ |
-| Crowding or refusing to disperse - contact an HR |
+| Crowding - contact an HR |
 | LRs or MRs hinting for a promotion - contact an HR | 
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
 | Trolling Guests/Customers - contact an HR |
@@ -78,7 +71,6 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively - contact an Executive Assistant+ |
 | Disrespecting, arguing, or ignoring an HR - contact an Executive Assistant+ if staff |
 | MRs failing to hide TSA commands - contact an Executive Assistant+ if the staff member continues after a verbal warning | 
-| Using :view on an SHR - for MRs - verbally warn the staff member |
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
