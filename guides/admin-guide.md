@@ -19,7 +19,7 @@ nav_order: 2
 #### 1A - Permission Levels
 {: .text-grey-dk-000 }
 {: .no_toc }
-All members who are ranked Store Supervisor+ will gain access to various commands. Ranks and their respective admin levels are shown below. 
+All Store Supervisor+ members will receive access to a range of commands. Refer to the following list to understand the ranks and their corresponding admin levels.
 
 | Rank        | Admin Level         | 
 |:-------------|:------------------|
@@ -36,19 +36,16 @@ All members who are ranked Store Supervisor+ will gain access to various command
 | Store Developer          | Creator | 
 | Group Owner           | Creator | 
 
-Depending on the role, certain commands can be executed.
-
 #### 1B - Executing Commands
 {: .text-grey-dk-000 }
 {: .no_toc }
-When executing commands, ensure they are being utilized correctly. 
+When executing commands, it is important to ensure that they are being used correctly and appropriately.
 
-* TSA provides the ability to hide commands by typing "/e" in front of them.
-  * To run a command privately with the "/e" method, open up the chat to run a command per usual. After doing so, place a "/e" before the desired command.
+* To hide commands, you can use the "/e" prefix before typing them in the chat.
+  * To execute a command privately using the "/e" method, simply open the chat and enter the command as usual. Once entered, place an "/e" before the desired command to ensure it is hidden.
     * EX:  **_/e :m Hello!_**
-  * This will make the command private. This also makes the command hidden from the chat.
-* The console can also be used to carry out a command. 
-  * To use the console, press ";" or "'" on your keyboard. This will prompt a GUI to appear at the top of your screen. When using the console, the prefix is **not** required. 
+* In addition to using the chat, the console can also be utilized to execute commands.
+  * To access the console, simply press the ";" or "'" key on your keyboard. This action will display a GUI at the top of your screen. Unlike using commands in the chat, the console does not require a prefix before entering the command.
     * EX: ; (Console Opens) 
       
       **_exploitlogs_**
@@ -57,43 +54,43 @@ When executing commands, ensure they are being utilized correctly.
       
 ### Anti-Exploit
 {: .text-red-300 }
-TSA features a built-in anti-exploit system, which keeps out exploiters. The anti-exploit system automatically permanently bans or kicks depending on the severity. 
+TSA features an integrated anti-exploit system that prevents many exploiters. This system automatically takes appropriate actions, such as issuing permanent bans or kicks, based on the severity of the exploit detected.
 
-* All detected exploits can be viewed with the :exploitlogs command. Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.
-* If a player appears in :exploitlogs, there is no need to request in-game assistance, as the exploiter has more than likely been banned by TSA's anti-exploit. If an exploiter is present, contact an available HR, attempt to gather sufficient evidence, and open a ticket.
+* The :exploitlogs command allows you to view a log of detected exploits within the TSA system. It's important to note that the command does not provide real-time information about exploiters currently in the server or their ongoing activities. The system primarily logs instances where an exploiter has been automatically banned. However, it's crucial to understand that the system may not detect every exploiter, as some may go unnoticed. The exploit logs primarily serve as a record of past instances where the anti-exploit system has taken action.
+* If a player appears in :exploitlogs, it indicates that the individual has been banned by TSA's anti-exploit system. In such cases, there is no need to request immediate in-game assistance, as the system has already taken appropriate action. However, if you encounter an exploiter in the game and they are not yet listed in :exploitlogs, it is recommended to contact an available HR. Make an effort to gather sufficient evidence of the exploiter, such as screenshots or videos, and then proceed to open a ticket.
 
 ### Downtime
 {: .text-red-300 }
-Downtime is a time in which a critical error has occurred within the code, stopping all commands being run, and by extension, your admin being given.
+Downtime refers to a period when a critical error occurs within the code, resulting in the interruption of all command executions.
 
 Click [here](https://status.bloxstreet.store) to view the status of various TSA services.
 
-* In this scenario, the Head Moderators+ kindly request that players do not spam ping us, DM us repeatedly, or anything of the sort when this occurs. Doing so can lead to consequences. Group Developers have likely been informed of the problems and are working diligently to fix them. 
-* A simple fix may just be rejoining. If a server shuts down, many players rejoining at the same time can overload the system and may cause admin loading to be delayed. For this reason, we request that players wait a few minutes before rejoining.
+* During such instances of downtime, it is kindly requested by moderators that players refrain from spam pinging or repeatedly sending direct messages to them or anyone else. Engaging in such behavior can result in consequences. It is important to understand that the Group Developers are likely aware of the issues and are actively working to resolve them.
+* If you encounter issues while playing, a simple solution may be to rejoin the server. However, if a large number of players simultaneously rejoin the server, it can potentially overload the system and cause delays in admin loading. To prevent such issues, it is requested that players exercise patience and wait a few minutes before attempting to rejoin the server.
 
 ### Acceptable Usage
 {: .text-red-300 }
-This is the main section of the document. It will outline the acceptable and unacceptable usages of admin commands.
+The following section outlines the acceptable and unacceptable usages of admin commands within the TSA system.
 
 #### 4A - All Commands Usage
 {: .text-grey-dk-000 }
 {: .no_toc }
 
-When executing commands, be sure to type at least 50% of the player's username.
+When executing commands, it is important to type at least 50% of the player's username to ensure accuracy and avoid unintended actions.
 
 
 | Command Name | Description |
 |:-------------|:------------|
-| :respawn / :res / :refresh / :ref | Use this command to respawn yourself and anybody who may request it. You may NOT do :respawn all or respawn users who do not request a respawn. |
+| :respawn / :res / :refresh / :ref | Use this command to respawn yourself and anybody who may request it. You may NOT :respawn all or respawn users who do not request a respawn. |
 | :kick (Store Director+) | Use this command to update in-game ranks, kick failed or passed LRs at a training session, or for any other valid reason. |
-| :ban (Store Director+) | Use this command for trollers, rule violators, removing a blacklisted or permanently banned user, or for  other valid reason. |
+| :ban (Store Director+) | Use this command for trollers, rule violators, removing a blacklisted or permanently banned user, or for any other valid reason. |
 | :unban (Store Director+) | Use this command if an HR accidentally bans the wrong person or if an invalid ban reason was put. | 
 | :sm / :m  | Use this command to make announcements in the store or at training sessions. | 
 | :shutdown (The host of a training) | Use this command to conclude a training session after everyone is finished. |
-| :slock / unslock (Host of a training session) | Use this command to lock a training session at :00. This command should not be used to unlock a server during a training session. |
+| :slock / :unslock (Host of a training session) | Use this command to lock a training session at :00. This command should not be used to unlock a server during a training session. |
 | :tp / :bring (Store Director+) | Use this command if a player is stuck somewhere and needs to be freed. |
 | :to | Use this command to be teleported to another player, as well as for other valid reasons. |
-| :view / :unview | Use this command to watch suspicious players (example: exploiters). | 
+| :view / :unview | Use this command to watch players, such as exploiters or other staff members. | 
 | :ff / :unff | Use this command for LRs who pass a training session and need to be taken to the ranking line. | 
 
 
@@ -115,7 +112,3 @@ When executing commands, be sure to type at least 50% of the player's username.
 |:-------------|
 | :crash |
 | :h |
-
-### Conclusion
-{: .text-red-300 }
-You have reached the end of the Admin Guide! Staff members should thoroughly read all the information in this guide before using admin commands. Direct any questions to an SHR.
