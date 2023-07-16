@@ -57,7 +57,7 @@ Store Manager+ may train at training sessions. Board of Directors+ have the auth
 ### How can I earn points? 
 {: .text-red-300 }
 {: .no_toc }
-Staff members can earn one point for each successful restock and two points for each spill cleaned.
+Staff members can earn one point for each successful restock, two points for each spill cleaned, two points for working at any department with POS systems, and three points for working at the main registers.
 
 ### What should I do if a player is trolling?
 {: .text-red-300 }
@@ -133,6 +133,11 @@ In order to get unblacklisted or unbanned, submit an appeal through [this form](
 {: .text-red-300 }
 {: .no_toc }
 In order to get unbanned from BloxStreet’s Discord server, submit an appeal through [this form](https://bit.ly/discordbanappeals). Ensure all requirements are met before submitting the form. 
+
+### Where can I find my appeal result?
+{: .text-red-300 }
+{: .no_toc }
+In order to find your appeal result, join the [BloxStreet Staffing Support server](https://discord.gg/mCT4BxCcuk) and head to the [#appeal-status](https://discord.com/channels/952320451827347537/952325607251902494) channel.
 
 ### How can I ally with BloxStreet? 
 {: .text-red-300 }
