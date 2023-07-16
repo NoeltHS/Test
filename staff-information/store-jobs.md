@@ -123,13 +123,13 @@ The cafe is one of the many store departments. Customers can come here to relax 
 {:.text-blue-000}
 {: .no_toc }
 
-**Step 1:** Upon joining the server, head over to the lockers. Wear the uniform by selecting the security one and then clicking "Equip Uniform." To equip the cuffs, find them in the staff room and then press and hold the 'E' key (or tap and hold on mobile). IMPORTANT: Players may only work as security if they have access to cuffs. Junior Team Member+ may purchase cuffs for 500 Robux. 
+**Step 1:** Upon joining the server, head over to the lockers. Wear the uniform by selecting the security one and then clicking "Equip Uniform." To equip the cuffs, find them in the staff room and then press and hold the 'E' key (or tap and hold on mobile). Please keep in mind that players may only work as security if they have access to cuffs. Junior Team Member+ may purchase cuffs for 300 Robux. 
 
 **Step 2:** Security staff members can cuff players who steal items from the store. If a player is found stealing an item, equip the cuffs and click on the player. After doing so, select the 'Stealing' option. Doing so will send the player to the jail for two minutes. IMPORTANT: Staff members may not cuff trollers. Instead, contact an HR through the communications server.
 
 **Step 3:** Security staff members should stand at the security desks. One desk is located at the front of the store, and another is located at the back.
 
-**Step 4:** If a staff member calls for security by pressing the button directly behind the register, an alert will appear on the monitor and over the register. Head over to the register and solve the issue. If the issue requires an HR, contact one.
+**Step 4:** If a staff member calls for security by pressing the button directly behind a register, an alert will appear on the monitor and over the register. Head over to the register and solve the issue. If the issue requires an HR, contact one.
 
 ## Staff Tasks
 {:.text-red-300} 
@@ -138,19 +138,19 @@ The cafe is one of the many store departments. Customers can come here to relax 
 {:.text-blue-000}
 {: .no_toc }
 
-Spills will randomly appear around the store. When customers leave litter, it is up to BloxStreet's staff to ensure the store is appealing and welcoming for new visitors.
+Spills randomly appear around the store. When customers leave litter, it is up to BloxStreet's staff to ensure the store is appealing and welcoming for new visitors.
 
 **Step 1:** Grab a mop from the staff hallway, cafe, or pharmacy. In order to do so, walk up to the mop stand, hold 'E' (or tap and hold on mobile), and a mop will appear in the player's inventory.
 
 **Step 2:** Walk up to a spill with the mop equipped. Hold 'E' (or tap and hold on mobile) to clean the spill.
 
-**Step 3:** While cleaning a spill, staff members cannot move for a period of 20 seconds. Once the spill has been cleaned, the staff member will be awarded two points.
+**Step 3:** While cleaning a spill, staff members cannot move for a period of 20 seconds. Once the spill has been cleaned, the staff member will receive two points.
 
 ### Restocking
 {:.text-blue-000}
 {: .no_toc }
 
-Items around the store will randomly go out of stock. It is our staff's responsibility to ensure all items have been restocked so guests have a pleasurable experience.
+Items around the store randomly go out of stock. It is our staff's responsibility to ensure all items have been restocked so guests can have a pleasurable experience.
 
 **Step 1:** Find an empty shelf that needs to be restocked.
 
@@ -168,5 +168,5 @@ Items around the store will randomly go out of stock. It is our staff's responsi
 
 Supervision is the process in which Board of Directors+ oversee the store to ensure all operations run smoothly.
 
-* Only **Board of Directors+** can supervise
-* Board of Directors, Executive Assistants, and Store Executives may oversee all store departments and answer any questions guests and staff members may have
+* Only **Board of Directors+** can supervise.
+* Board of Directors, Executive Assistants, and Store Executives may oversee all store departments and answer any questions guests and staff members may have.
