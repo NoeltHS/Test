@@ -25,6 +25,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * Trainers should avoid rushing through the script. Provide sufficient time for LRs to read and process the information being presented.
 * MRs and HRs should refrain from engaging in conversations and instead utilize the communications server.
 * Engaging in any form of unprofessional behavior will result in immediate dismissal from the session and potential disciplinary actions.
+* It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
 * LRs are permitted to go AFK for a maximum duration of three minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
 
 ## Rank Information
