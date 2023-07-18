@@ -54,7 +54,7 @@ This section provides an overview of the responsibilities and duties assigned to
 
 **At :45**, which is 15 minutes before the training session begins, the Host should claim the session, while the Co-Host does the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all large servers at the store. Furthermore, it is important for the Host, Co-Host, and/or rankers to request trainers to state two lines from the Cafe Test, ensuring that they have access to the correct version of the guide.
 
-### Host and Co-Host: After Claiming
+### Host: After Claiming
 {: .text-yellow-200 }
 {: .no_toc }
 
