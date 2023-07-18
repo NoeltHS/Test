@@ -58,33 +58,23 @@ This section provides an overview of the responsibilities and duties assigned to
 {: .text-yellow-200 }
 {: .no_toc }
 
-At this point, it is expected that the Host and Co-Host stand next to each other. As LRs join the server, the Host is required to repeatedly announce the following line:
-
-**Host:** *Welcome to all of our staff members joining! Please enter the building and stand on the red lines. Your trainer will answer any questions you may have.*
-
 The Host should announce the line below at :57. 
 
-**Host:** *We will commence in approximately three minutes. All LRs should refrain from dancing and talking.* 
+**Host:** *We will commence in approximately three minutes. At this time, all LRs are requested to refrain from chatting so that we may begin promptly.* 
 
 ### Host and Co-Host: Training Commences
 {: .text-yellow-200 }
 {: .no_toc }
 
-**At :00**, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Once all the LRs have become silent, the Host and Co-Host can proceed to deliver their introduction lines. In the event that any LRs fail to comply with the requirement to remain silent, the Host and Co-Host have the authority to remove them from the server. 
+**At :00**, which is the exact time of the training session's commencement, the Host should type the command "/e :slock". The Co-Host should send the second group shout. Once all the LRs have become silent, the Host can proceed to deliver their introduction lines. In the event that any LRs fail to comply with the requirement to remain silent, the Host and Co-Host have the authority to remove them from the server. 
 
-**Host:** *Greetings, everyone! Welcome to today’s training session! My name is (username), and I am your host.*
+**Host:** *Greetings, everyone, and welcome to this training session! You will start your training by watching a presentation on the monitors. For your success, your undivided attention is required.*
 
-**Co-Host:** *Hello, everyone! My name is (username), and I am your co-host for today’s training session. I wish you the best of luck.*
-
-**Co-Host:** *Before we commence, I ask everyone to remain silent at all times. You will be watching a presentation before being trained.*
-
-**Host:** *The presentation lasts a few minutes, and we request that you give it your full attention. This presentation teaches you vital information for your success.*
-
-**Co-Host:** *Please note that speaking or distracting others is prohibited during this time, and you will be removed from the server if caught doing so.* 
+**Host:** *Please keep in mind that chatting or distracting others is strictly prohibited at this time and will result in a removal from the server.*
 
 To initiate the presentation, the Host needs to click the 'Host Settings' button located at the bottom left corner of their screen. Afterward, the Host should proceed by clicking the 'Begin' button. In case the 'Host Settings' button is not visible in the bottom left corner, the Host should promptly rejoin the session. The slideshow can only be played once.
 
-**Host:** *The presentation has started. If you wish to receive a closer view of the slideshow, click on a monitor.*
+**Host:** *The presentation is now underway. For those of you who desire a closer view of the slideshow, simply click on any monitor to zoom in.*
 
 Throughout the presentation, both the Host and Co-Host should actively supervise the LRs to ensure they are adhering to the guidelines. This includes making sure that the LRs are remaining on the red lines and refraining from engaging in conversations with one another. In addition, the Host and/or Co-Host should remove Management Interns - Assistant Managers from the session.
 
@@ -92,11 +82,9 @@ Throughout the presentation, both the Host and Co-Host should actively supervise
 {: .text-yellow-200 }
 {: .no_toc }
 
-**Host:** *Thank you for paying attention during the presentation. You will now receive further instructions about this training.*
+**Co-Host:** *As the presentation is now finished, you will be teleported to a trainer shortly. Once you are teleported, please refrain from wandering around.*
 
-**Co-Host:** *LRs, please remain on the red lines. You will be teleported to a trainer when one is available. Once you are teleported, you should NOT wander around.*
-
-**Host:** *On behalf of all MRs and HRs here, I wish you the best of luck in passing this training session. Trainers, please be patient until your LRs are teleported to you.*
+**Co-Host:** *I wish all of you the best of luck in successfully completing this training session. Trainers should remain patient while LRs are teleported.*
 
 The Co-Host can now proceed to move towards the red lines, while the Host should head to the first occupied station for teleportation. To teleport LRs, the Host can view the Co-Host and bring the LRs. It is important to note that the Host should teleport a minimum of one and a maximum of four LRs to each trainer, depending on the number of trainers available.
 
