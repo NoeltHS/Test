@@ -21,6 +21,7 @@ Note the following:
 - Lack of awareness regarding the rules does not exempt an individual from receiving a punishment.
 - Certain punishments designated for staff members may also be applicable to non-staff.
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
+- Intentional leaking, gossiping, affiliating with gossip, and failing to report gossip are considered unappealable offenses. Apart from these, SHRs hold the authority to designate other offenses as unappealable on a case-by-case basis.
 
 ## Player Punishments
 {: .text-red-300 } 
