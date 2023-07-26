@@ -37,7 +37,7 @@ To inquire about the remaining days until your promotion cooldown ends, please p
 ### When are shifts and training sessions hosted? 
 {: .text-red-300 }
 {: .no_toc }
-The shift and training session schedules can be found in the in-game staff room or [here](https://discord.com/channels/323081832071561216/600732254502780928/1125835371448639499).
+The shift and training session schedules can be found in the in-game staff room or [here](https://discord.com/channels/323081832071561216/600732254502780928/1133663091784159253).
 
 ### What are shifts?
 {: .text-red-300 }
