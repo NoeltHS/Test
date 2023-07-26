@@ -99,10 +99,10 @@ When executing commands, it is important to type at least 50% of the player's us
 |:-------------|
 | :cmds |
 | :bans           |
-| :info_        |
+| :info      |
 | :admins           |
 | :chatlogs           |
-| :logs_          |
+| :logs         |
 | :exploitlogs          | 
 | :showtools | 
 
