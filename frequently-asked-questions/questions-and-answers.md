@@ -42,7 +42,7 @@ The shift and training session schedules can be found in the in-game staff room 
 ### What are shifts?
 {: .text-red-300 }
 {: .no_toc }
-Shifts offer opportunities for Management Interns, Team Leaders, Store Supervisors, and Assistant Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way.
+Shifts offer opportunities for Management Interns, Team Leaders, Store Supervisors, and Assistant Managers to receive a promotion. Additionally, shifts serve as times for guests to visit the store and have an enjoyable experience. Throughout a shift, it is expected that all staff members work in some way. 
 
 ### How can I check my demotion reason?
 {: .text-red-300 }
