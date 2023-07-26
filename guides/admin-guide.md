@@ -97,14 +97,14 @@ When executing commands, it is important to type at least 50% of the player's us
 
 | Acceptable Commands       |
 |:-------------|
-| _:cmds_ |
-| _:bans_           |
-| _:info_         |
-| _:admins_           |
-| _:chatlogs_           |
-| _:logs_           |
-| _:exploitlogs_           | 
-| _:showtools_ | 
+| :cmds |
+| :bans           |
+| :info_        |
+| :admins           |
+| :chatlogs           |
+| :logs_          |
+| :exploitlogs          | 
+| :showtools | 
 
 
 
