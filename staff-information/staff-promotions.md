@@ -17,7 +17,7 @@ This guide outlines all of the necessary information about the promotion process
 
 ## Trainee Team Member-Senior Team Member
 {:.text-red-300}
-Trainee, Junior, and Senior Team Members must attend training sessions to progress in their ranks. These sessions are hosted multiple times a day, providing LRs with ample chances to earn promotions. The schedule for these training sessions can be accessed in the in-game staff room.
+Trainee, Junior, and Senior Team Members must attend training sessions to progress in their ranks. These sessions are hosted multiple times a day, providing LRs with ample chances to earn promotions. The schedule for these training sessions can be accessed in the in-game staff room or [here](https://discord.com/channels/323081832071561216/600732254502780928/1133663177549299794).
 
 ## Management Intern-Assistant Manager
 {:.text-red-300}
