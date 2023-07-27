@@ -60,7 +60,7 @@ This section provides an overview of the responsibilities and duties assigned to
 
 After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the seven green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
 
-**Host, Co-Host, and/or Rankers:** *Hello! Please state the seven green lines from training guide.*
+**Host, Co-Host, and/or Rankers:** *Hello! Please state the seven green lines that are found on the training guide.*
 
 **Host, Co-Host, and/or Rankers:** *Thank you! Please note that the green lines are also used when you are training LRs.*
 
