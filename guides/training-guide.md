@@ -160,7 +160,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *Make sure to include the term "BloxStreet" in your greeting.*
 
 **Trainer:** *While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*
-{:.text-grey-000}
+{: .text-green-200 }
 
 **Trainer:** *Feel free to utilize the !notepad command to record the customer's order.*
 
@@ -169,7 +169,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **At this point, head to the other side of the cafe station to demonstrate how to make the drinks.**
 
 **Trainer:** *To prepare a coffee, begin by clicking on the white mug. Once you have equipped the mug, proceed to dispense the type of coffee that the guest ordered.*
-{:.text-grey-000}
+{: .text-green-200 }
 
 **Trainer:** *To create a slushie, begin by clicking on the cold cup. Once you have the cold cup equipped, proceed to dispense the type of slushie that the guest ordered.*
 
@@ -208,7 +208,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **This test takes place at the register.**
 
 **Trainer:** *Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*
-{:.text-grey-000}
+{: .text-green-200 }
 
 **Ensure all LRs are signed out of their cafe registers before proceeding.**
 
@@ -223,7 +223,7 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *Based on the guest's preference, click either "Robux Payment" or "Card Payment" to proceed with the payment process.*
 
 **Trainer:** *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
-{:.text-grey-000}
+{: .text-green-200 }
 
 **Trainer:** *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
 
@@ -255,10 +255,10 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store’s staff room.*
 
 **Trainer:** *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
-{:.text-grey-000}
+{: .text-green-200 }
 
 **Trainer:** *Additional information about BloxStreet can be found on our website at support.bloxstreet.store.*
-{:.text-grey-000}
+{: .text-green-200 }
 
 **Trainer:** *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
 
