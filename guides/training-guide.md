@@ -26,7 +26,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * MRs and HRs should refrain from engaging in conversations and instead utilize the communications server.
 * Engaging in any form of unprofessional behavior will result in immediate dismissal from the session and potential disciplinary actions.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
-* LRs are permitted to go AFK for a maximum duration of three minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
+* LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
 
 ## Rank Information
 {: .text-red-300 }
@@ -38,7 +38,7 @@ Below is an overview of each rank's job at training sessions.
 | Co-Host | The Co-Host should join the Training Center between :35 and :40. The Co-Host contributes by doing the group shouts, verifying that trainers have the correct guide version, and recording training attendance using the appropriate format. Additionally, the Co-Host plays a key role in supervising the session, ensuring its smooth operation, and ranking. It is crucial for the Co-Host to accurately submit the training attendance in a ticket, adhering to the designated format. | Board of Directors+  | **1** co-host per training - an Executive Assistant+ may choose to host independently |
 | Ranker           | The rankers of the session have the responsibility of ranking all LRs who have successfully completed the training. While it is not mandatory for rankers to be present for the entire session, they are expected to join approximately 10 minutes before ranking commences. However, they are also welcome to attend the entire session, supervising after the teleportation process, but before the actual ranking begins. Rankers have permission to help the training session Host and Co-Host with guide checking. They are allowed to perform guide checks independently, but whether they choose to do so or not depends on the agreement among the Host, Co-Host, and themselves. If rankers decide to conduct guide checks, they are required to remain present for the entire duration of the session. It is not acceptable for them to only join for guide checking, leave, and then rejoin later for ranking. The Host holds the responsibility of ensuring that the rankers are present during their session. This includes coordinating with the rankers and confirming their availability. | Executive Assistant+ | **2 or 3** rankers per training
 | Announcer | The announcer is tasked with making the announcement about the training session in all large servers of the store. The selection of the announcer is made by the Host, who has the authority to choose an individual for this specific role. | Store Director+ | **1** announcer per training
-| Trainer           | Trainers are expected to join the Training Center at :45 and carefully follow the instructions provided in this guide. Trainers conduct a series of tests and evaluate the performance of their LRs based on the criteria outlined in this guide. | Store Manager+ | Maximum of **16 trainers** (1 trainer per counter)  |
+| Trainer           | Trainers are expected to join the Training Center at :45 and carefully follow the instructions provided in this guide. Trainers conduct a series of tests and evaluate the performance of their LRs based on the criteria outlined in this guide. | Store Manager+ | Maximum of **16 trainers** (1 trainer per station)  |
 | Lower Ranks | Low Ranks (LRs), which are Trainee Team Members, Junior Team Members, and Senior Team Members, attend training sessions and must adhere to all instructions provided. By doing so, LRs have the opportunity to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
 | Spectators | Spectators supervise training sessions and ensure everything is running smoothly. | Junior Moderator+ | No maximum | 
 
@@ -52,9 +52,19 @@ This section provides an overview of the responsibilities and duties assigned to
 
 **Between :35 and :40**, it is expected that both the Host and Co-Host arrive at the Training Center to prepare for the training session. It is the responsibility of both the Host and Co-Host to ensure they are online and punctual for the session. Failing to attend a claimed session without giving a notice will result in a punishment (if done repetitively).
 
-**At :45**, which is 15 minutes before the training session begins, the Host should claim the session, while the Co-Host does the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all large servers at the store. Furthermore, it is important for the Host, Co-Host, and/or rankers to request trainers to state two lines from the Cafe Test, ensuring that they have access to the correct version of the guide.
+**At :45**, which is 15 minutes before the training session begins, the Host should claim the session, while the Co-Host does the first group shout to notify LRs. Simultaneously, the announcer is responsible for making an announcement about the training session in all large servers at the store.
 
-### Host: After Claiming
+### Host, Co-Host, and/or Rankers: Guide Checking
+{: .text-yellow-200 }
+{: .no_toc }
+
+After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the seven green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
+
+**Host, Co-Host, and/or Rankers:** *Hello! Please state the seven green lines from training guide.*
+
+**Host, Co-Host, and/or Rankers:** *Thank you! Please note that the green lines are also used when you are training LRs.*
+
+### Host: Minutes before Commencement
 {: .text-yellow-200 }
 {: .no_toc }
 
@@ -91,20 +101,13 @@ The Co-Host can now proceed to move towards the red lines, while the Host should
 
 ## Trainer Scripts
 {: .text-red-300 }
-This section provides an overview of the tests that trainers are required to perform. In the event that an LR needs to go AFK, trainers should not wait for their return. The maximum AFK duration is three minutes, ensuring that the LR does not miss significant content if the trainer maintains an average pace. Upon the LR's return from being AFK, the trainer should provide a summary of the covered topics and perform any missed tests. However, if all LRs disconnect or fail the training session, the trainer should promptly leave the server without notifying the Host or Co-Host.
-
-
-### Grammar/Greeting Test
-{: .text-purple-100 }
-{: .no_toc }
-
-During the Grammar/Greeting Test, trainers are responsible for explaining the test's procedure to the LRs. It is crucial to ensure that all LRs state their greetings during the test. **IMPORTANT: Trainers should refrain from failing LRs for minor grammatical errors. If the greetings are understandable, the LRs should be passed.** If necessary, trainers can offer helpful tips to the LRs. Additionally, trainers should remind LRs to copy and paste their greetings, as it expedites the process for them. Please keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. In case the LR passes, the trainer can proceed to the next test. However, if the LR fails, the trainer must state the fail prompt and remove them from the server, citing the reason as "Failed."
+This section provides an overview of the tests that trainers are required to perform. In the event that an LR needs to go AFK, trainers should not wait for their return. The maximum AFK duration is two minutes, ensuring that the LR does not miss significant content if the trainer maintains an average pace. Upon the LR's return from being AFK, the trainer should provide a summary of the covered topics and perform any missed tests. However, if all LRs disconnect or fail the training session, the trainer should promptly leave the server without notifying the Host or Co-Host.
 
 ### Cafe Test
 {: .text-purple-100 }
 {: .no_toc }
 
-The subsequent phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the slush machine, its two available flavors, and how to select them using a cold cup. In the event that an LR prepares the wrong drink during the Cafe Test, the trainer should kindly repeat the order and request the correct drink again. If, after the reminder, the LR still serves the incorrect drink, the trainer should state the fail prompt and remove them from the server, indicating the reason as "Failed." For this test, LRs should utilize the POS system.
+The first phase of training is the Cafe Test. During this evaluation, LRs will be tasked with preparing an order. It is essential that LRs utilize understandable grammar throughout this test. Trainers must make sure that LRs are well-informed about the beverage machines and how to select each drink using the appropriate cup. For this test, LRs should state their greetings and utilize the POS system. Please keep in mind that it is mandatory to have 'BloxStreet' in a greeting. If an LR misspells 'BloxStreet' during this test, the trainer should prompt the LR to repeat their greeting. If an LR fails to prepare the correct order or misspells/does not include 'BloxStreet' in their greeting more than once, the trainer should state the fail prompt and then remove them from the server, specifying the reason as "Failed."
 
 ### Register Test
 {: .text-purple-100 }
@@ -124,104 +127,77 @@ If a group of LRs successfully pass, the trainer should utilize the :ff command 
 
 This section will provide trainers with the training script. It is essential not to modify this script. The use of emojis is permitted.
 
-**The introduction takes place at the cafe counter.**
+**The introduction takes place at the cafe station.**
 
-**Trainer:** *Hello, everyone! Thank you for attending this training session. My name is (username), and I will be your trainer for today.*
+**Trainer:** *Greetings, everyone! Thank you for attending this training session. My name is (username), and it is my pleasure to be your trainer.*
+{:.text-grey-000}
 
-**Trainer:** *During this training, I will be teaching you the basics that every Low Rank should know. I will also be providing important information for your success.*
+**Trainer:** *In case you need to go AFK for any reason, be sure to inform me. Failure to do so will result in a removal from the server.*
 
-**Trainer:** *If you need to go AFK for any reason, please make sure to tell me. Failure to do so will result in a removal from the server.*
+**Trainer:** *Please be aware that you are allowed to go AFK for a maximum of two minutes. You may not go AFK for a duration exceeding this time.*
 
-**Trainer:** *Please keep in mind that you may go AFK for up to three minutes. You cannot go AFK for a period of time longer than three minutes.*
+**Trainer:** *During this training session, you are permitted to go AFK up to two times.*
 
-**Trainer:** *If you do not return after three minutes, you will be removed from the server.*
+**Trainer:** *In the event that I disconnect from the server, please wait for me to rejoin. Refrain from moving to a different station or wandering around.*
 
-**Trainer:** *You may only go AFK up to two times during this training session.*
+**Trainer:** *Please indicate you are ready to proceed by jumping. At this time, I will not answer any questions.*
 
-**Trainer:** *If I happen to disconnect, please wait until I rejoin. Do NOT move to a different station.*
-
-**Trainer:** *If you disconnect from the server, you may attend the next training session. The training schedule can be found in the staff room, which is located in the store.*
-
-**Trainer:** *Does anyone have any questions? A response from every Trainee is mandatory.*
-
-At this point, all LRs are required to respond. If they reply with a positive answer, trainers can proceed with the training. However, if any LRs have questions or concerns, trainers should take the time to address them until the LRs are ready to begin. Nevertheless, trainers also have the discretion to proceed if the questions are causing delays and slowing down the group's progress.
-
-### Grammar / Greeting Test Script
-{: .text-blue-000 }
-{: .no_toc }
-
-**This test takes place at the cafe counter.**
-
-At this point, the Grammar/Greeting Test will begin. Read [this section](https://support.bloxstreet.store/guides/training-guide.html#grammargreeting-test) to learn how to perform it. 
-
-**Trainer:** *We will start this training with the Grammar/Greeting Test.*
-
-**Trainer:** *When a guest approaches your register at the store, you must greet them with a polite greeting.*
-
-**Trainer:** *Here is an example of a greeting: “Hello! Welcome to BloxStreet Shopping Center! My name is (username), how may I assist you today?”*
-
-**Trainer:** *You are welcome to add adjectives or emojis to your greeting. Feel free to customize it to your liking.*
-
-**Trainer:** *I would now like everyone to state their greeting. Failure to do so will result in a removal from the server.*
-
-**Wait for all LRs to state their greetings.** 
-
-**If their greetings are understandable, pass them. Trainers should not be strict. If one lacks understandable grammar, use the line below. If an LR spells 'BloxStreet' incorrectly, follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#grammargreeting-test).**
-
-**Trainer:** *Unfortunately, you have failed this training session due to a lack of understandable grammar in your greeting. You are always welcome to attend another session.*
+At this point, all LRs are required to jump. If an LR fails to jump in a timely manner, the trainer must remove them from the server. Trainers may not answer questions at this time.
 
 
 ### Cafe Test Script
 {: .text-blue-000 }
 {: .no_toc }
 
-**This test takes place at the cafe counter.**
+**This test takes place at the cafe station.**
 
-**Trainer:** *Congratulations, you have all passed the Greeting Test! We will now move on to the Cafe Test.*
+**Trainer:** *We will now begin with the Cafe Test.*
 
-**Trainer:** *In this test, treat me as a guest who has approached your cafe register.*
+**Trainer:** *When a customer approaches your cafe register at the store, it is essential to greet them with a polite and friendly greeting.*
 
-**Trainer:** *You must utilize understandable grammar in this test. I will determine if your grammar is understandable or not.*
+**Trainer:** *Here is an example of a greeting: “Hello! Welcome to BloxStreet Corporation! I'm (username), and I'm here to assist you. How may I help you today?”*
 
-**Trainer:** *Before we begin, I will show you how to make a coffee. Please pay attention and avoid going AFK, as the information is vital for your success.*
+**Trainer:** *Make sure to include the term "BloxStreet" in your greeting.*
 
-**Trainer:** *Firstly, click on the mug. Once you have equipped the mug, dispense the type of coffee the customer ordered. I will show you an example, so please watch closely.*
+**Trainer:** *While working at the cafe, you are responsible for taking the customer's order and ensuring its prompt fulfillment.*
+{:.text-grey-000}
 
-**At this point, show them how to make a simple coffee.**
+**Trainer:** *Feel free to utilize the !notepad command to record the customer's order.*
 
-**Trainer:** *We also have a slush machine at BloxStreet that allows our guests to choose from two flavored slushies.*
+**Trainer:** *I will now demonstrate how to prepare some common orders: a coffee and a slushie. Please pay close attention and refrain from attempting to make the drinks yourselves.*
 
-**Trainer:** *This machine requires a COLD CUP.*
+**At this point, head to the other side of the cafe station to demonstrate how to make the drinks.**
 
-**Trainer:** *To dispense a slush, simply place the COLD CUP under the desired flavor.*
+**Trainer:** *To prepare a coffee, begin by clicking on the white mug. Once you have equipped the mug, proceed to dispense the type of coffee that the guest ordered.*
+{:.text-grey-000}
 
-**At this point, take your LRs back to the cafe counter.**
+**Trainer:** *To create a slushie, begin by clicking on the cold cup. Once you have the cold cup equipped, proceed to dispense the type of slushie that the guest ordered.*
 
-**Trainer:** *To use the POS system, scan your BloxStreet Staff Card on the screen to sign in.*
+**At this point, head back to the trainer spot. Ensure your LRs face you.**
 
-**Trainer:** *Once signed in, scan any items the customer has ordered, and click "Finish Transaction." The customer will be required to tap their Cash Card on the reader.*
+**Trainer:** *To log into a cafe register, simply scan your BloxStreet Staff Card on the screen. You may scan your card at this time.*
 
-**Trainer:** *If the payment is declined, you cannot serve the customer, as they cannot afford what they ordered.*
+**At this point, make sure all LRs are signed into their cafe register.**
 
-**Trainer:** *If this occurs, remove the items from the order or press "Void Transaction."*
+**Trainer:** *After signing in, proceed to scan any items the customer has requested. Once all items have been scanned, click on "Finish Transaction" to complete the order.*
 
-**Trainer:** *Be sure to sign out once you are finished. Never leave a terminal signed in.*
+**Trainer:** *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
 
-**Trainer:** *Now that I have finished providing an explanation about our group's cafe system, please face your register.*
+**Trainer:** *We will begin this test shortly. You must utilize comprehensible grammar, and I will assess your understandability.*
 
-**Once all LRs face their cafe register, state the line below.**
+**Trainer:** *Please be aware that I can only repeat the order twice. If you give me an incorrect item, you will fail this training automatically.*
 
-**Trainer:** *We will now begin this test. I will approach each of you individually. When I do, be sure to state your greeting.*
+**Trainer:** *I will now approach each of you individually. When I do, make sure to greet me with your greeting.*
 
-**Approach the first LR. Wait for the LR to state their greeting. Begin the test once they do.**
+**Approach the first LR. Wait for the LR to state their greeting and begin once they do.**
 
-**Trainer:** *Hi! Could I get a Regular Coffee and a Cherry Slush?*
+**Trainer:** *Greetings! May I please have a Cherry Slushie and a Regular Coffee?*
 
-**Assist the LR as needed. Follow the procedure [here](https://support.bloxstreet.store/guides/training-guide.html#cafe-test) if an LR gives the wrong order.**
+**Assist the LR as needed. If the LR provides the wrong order, fail them.**
 
 **If they pass, proceed to the next LR. If they fail, use the line below.**
 
-**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
+**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are welcome to attend another session.*
 
 
 
@@ -231,23 +207,27 @@ At this point, the Grammar/Greeting Test will begin. Read [this section](https:/
 
 **This test takes place at the register.**
 
-**Trainer:** *Congratulations, you have all passed the Cafe Test! We will now move on to the Register Test.*
+**Trainer:** *Congratulations, you have all passed the Cafe Test! Please sign out of your cafe registers by clicking the exit button.*
+{:.text-grey-000}
 
-**Take all LRs to the station's cash register.**
+**Ensure all LRs are signed out of their cafe registers before proceeding.**
 
-**Trainer:** *When a guest approaches your register at the store, you should greet them with a polite greeting.*
+**Trainer:** *Follow me so we can start the Register Test. When at the register, form a line facing the register from the cashier point.*
 
-**Trainer:** *When they ask to be checked out, click “Start Sale” on the register.*
+**Trainer:** *When a customer approaches your cash register, similar to the cafe, it is essential to greet them with a polite and friendly greeting.*
 
-**Trainer:** *Select the customer's username, then click “Finalize Sale.”*
+**Trainer:** *When a customer requests to proceed with checkout, click on the "Start Sale" button on the register.*
 
-**Trainer:** *Click "Robux Payment" or "Card Payment," depending on the guest's preference.*
+**Trainer:** *After selecting the customer's username, proceed to click on the "Finalize Sale" button.*
 
-**Trainer:** *Remind the customer to scan their BloxStreet Cash Card on the payment screen, and after doing so, inform the guest to enjoy the rest of their day.*
+**Trainer:** *Based on the guest's preference, click either "Robux Payment" or "Card Payment" to proceed with the payment process.*
 
-**Trainer:** *Is everyone here ready to begin the test? A response from every LR is mandatory.*
+**Trainer:** *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
+{:.text-grey-000}
 
-At this point, all LRs are required to respond. If they reply with a positive answer, trainers can proceed with the training. However, if any LRs have questions or concerns, trainers should take the time to address them until the LRs are ready to begin. Nevertheless, trainers also have the discretion to proceed if the questions are causing delays and slowing down the group's progress.
+**Trainer:** *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
+
+At this point, all LRs are required to jump. If an LR fails to jump in a timely manner, the trainer must remove them from the server. If any LRs have questions or concerns, trainers should take the time to address them until all LRs are ready to begin. Nevertheless, trainers also have the discretion to proceed if the questions are causing delays and slowing down the group's progress.
 
 **Note: This part is the in-test script.**
 
@@ -259,28 +239,32 @@ At this point, all LRs are required to respond. If they reply with a positive an
 
 **If they pass, proceed. If they fail, use the line below.**
 
-**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are always welcome to attend another session.*
+**Trainer:** *Unfortunately, you have failed this training session due to (reason). You are welcome to attend another session.*
 
 
 ### Passing LRs
 {: .text-blue-000 }
 {: .no_toc }
 
-**Trainer:** *Congratulations to everyone who passed the Register Test! You have each completed all tests, meaning we can now conclude this training.*
+**Trainer:** *Congratulations, you have all passed the Register Test! You have each completed both tests.*
 
 **State the line below if there is at least one Senior Team Member remaining in your group.**
 
 **Trainer:** *If you are currently a Senior Team Member, you will be promoted to Management Intern. In order to be promoted as a Management Intern, you must attend and be recognized at a shift.*
 
-**Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store's staff room.*
+**Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store’s staff room.*
 
-**Trainer:** *If you have any further questions, be sure to join our communications server. The code is ‘bloxstreet’.*
+**Trainer:** *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
+{:.text-grey-000}
+
+**Trainer:** *Additional information about BloxStreet can be found on our website at support.bloxstreet.store.*
+{:.text-grey-000}
+
+**Trainer:** *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
 
 **Trainer:** *Please follow me to the purple ranking line so you can be ranked. Congratulations on passing!*
 
-**Trainers should FF their LRs by executing the command :ff (username). Trainers must hide their commands by utilizing the command bar or placing an "/e" before any command.**
-
-**Trainer:** *Stay online until the ranker dismisses you and says that you have been ranked. It has been a pleasure training you!*
+**Trainers should FF their LRs by executing the command /e :ff (username).**
 
 Rankers should run the :info command on each LR before kicking. Running the command ensures each LR has been ranked correctly.
 
