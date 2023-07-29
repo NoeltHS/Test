@@ -84,7 +84,7 @@ Note the following:
 | Failing to hide admin commands | Verbal warning and then a demotion one rank down | Store Supervisor+ |
 | Speaking negatively about alliances | Verbal or logged warning | Team Leader+ |
 | Unnecessarily or excessively using admin commands | Demotion one rank down | Store Supervisor+ |
-| Trolling/unprofessionalism at alliances or non-affiliated establishments | Demotion to Customer | Team Leader+ |
+| Trolling/unprofessionalism at alliances or prominent non-affiliated establishments | Demotion to Customer | Team Leader+ |
 | Advertising in-game | Blacklist | Team Leader+ |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing on elevated surfaces, etc.) | Blacklist | Team Leader+ |
 | Abusing the warning/kick system | Permanent ban | Store Supervisor+ |
