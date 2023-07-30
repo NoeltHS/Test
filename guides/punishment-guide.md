@@ -37,6 +37,7 @@ Note the following:
 | Failure to comply by an HR's orders | Server ban | Everyone |
 | Glitching | Server ban | Everyone |
 | Inciting a raid | Server ban | Everyone |
+| Minor death threats | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Trolling | Server ban | Everyone |
 | Alternate account of a blacklisted or permanently banned user | Permanent ban | Everyone | 
@@ -45,7 +46,7 @@ Note the following:
 | Exploiting | Permanent ban | Everyone |
 | Impersonation | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
-| Inappropriate behavior or roleplay | Permanent ban | Everyone |
+| Inappropriate behavior, gestures, or roleplay | Permanent ban | Everyone |
 | Joking about serious topics | Permanent ban | Everyone | 
 | Major death threats | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
@@ -101,5 +102,6 @@ Note the following:
 | Announcement abuse | Logged warning or a blacklist | High Ranks |
 | Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Trolling or behaving unprofessionally on an alternate account | Demotion and/or blacklist | High Ranks |
+| Minute farming | Demotion to Customer | High Ranks |
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Leaking chats or confidential information | Permanent ban | High Ranks |
