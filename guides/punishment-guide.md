@@ -88,9 +88,9 @@ Note the following:
 | Unnecessarily or excessively using admin commands | Demotion one rank down | Store Supervisor+ |
 | Trolling/unprofessionalism at alliances or prominent non-affiliated establishments | Demotion to Customer | Team Leader+ |
 | Speaking negatively about alliances | Demotion to Customer | Team Leader+ |
-| Abusing the warning/kick system | Blacklist | Store Supervisor+ |
 | Advertising in-game | Blacklist | Team Leader+ |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing on elevated surfaces, etc.) | Blacklist | Team Leader+ |
+| Abusing the warning/kick system | Permanent ban | Store Supervisor+ |
 
 
 ## HR+ Punishments
