@@ -25,6 +25,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * Trainers should avoid rushing through the script. Provide sufficient time for LRs to read and process the information being presented.
 * MRs and HRs should refrain from engaging in conversations and instead utilize the communications server.
 * Engaging in any form of unprofessional behavior will result in immediate dismissal from the session and potential disciplinary actions.
+* Although Store Managers are not required to use grammar at the store, they are required to when training LRs. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
 
@@ -58,9 +59,9 @@ This section provides an overview of the responsibilities and duties assigned to
 {: .text-yellow-200 }
 {: .no_toc }
 
-After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the seven green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
+After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
 
-**Host, Co-Host, and/or Rankers:** *Hello! Please state all green lines found on the training guide. There are seven in total.*
+**Host, Co-Host, and/or Rankers:** *Hello! Please state all green lines found on the training guide. There are three in total.*
 
 **Host, Co-Host, and/or Rankers:** *Thank you! Please note that the green lines are also used when you are training LRs.*
 
@@ -169,7 +170,6 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **At this point, head to the other side of the cafe station to demonstrate how to make the drinks.**
 
 **Trainer:** *To prepare a coffee, begin by clicking on the white mug. Once you have equipped the mug, proceed to dispense the type of coffee that the guest ordered.*
-{: .text-green-200 }
 
 **Trainer:** *To create a slushie, begin by clicking on the cold cup. Once you have the cold cup equipped, proceed to dispense the type of slushie that the guest ordered.*
 
@@ -223,7 +223,6 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *Based on the guest's preference, click either "Robux Payment" or "Card Payment" to proceed with the payment process.*
 
 **Trainer:** *Afterward, kindly prompt the customer to scan their BloxStreet Cash Card on the payment screen. Once the payment is made, wish the guest an enjoyable rest of their day.*
-{: .text-green-200 }
 
 **Trainer:** *Are all of you prepared to start the test? If you are, please jump to indicate your readiness.*
 
@@ -255,10 +254,8 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *Shifts are hosted daily at the store. The entire schedule can be found in the store’s staff room.*
 
 **Trainer:** *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
-{: .text-green-200 }
 
 **Trainer:** *Additional information about BloxStreet can be found on our website at support.bloxstreet.store.*
-{: .text-green-200 }
 
 **Trainer:** *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
 
