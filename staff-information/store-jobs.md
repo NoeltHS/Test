@@ -137,7 +137,7 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 **Note the following:**
 - A maximum of two staff members are allowed to assist at the help desk.
-- Staff members are not required to have security cuffs to work at the help desk.
+- Staff members are not required to own security cuffs to work at the help desk.
 
 
 ## Staff Tasks
