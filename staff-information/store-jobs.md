@@ -131,6 +131,15 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 **Step 4:** If a staff member calls for security by pressing the button directly behind a register, an alert will appear on the monitor and over the register. Head over to the register and solve the issue. If the issue requires an HR, contact one.
 
+### Help Desk
+{:.text-blue-000}
+{: .no_toc }
+
+**Note the following:**
+- A maximum of two staff members are allowed to assist at the help desk.
+- Staff members are not required to have security cuffs to work at the help desk.
+
+
 ## Staff Tasks
 {:.text-red-300} 
 
@@ -170,3 +179,4 @@ Supervision is the process in which Board of Directors+ oversee the store to ens
 
 * Only **Board of Directors+** can supervise.
 * Board of Directors, Executive Assistants, and Store Executives may oversee all store departments and answer any questions guests and staff members may have.
+* A maximum of two HRs may supervise each store department, and HRs are required to spread out when fulfilling their supervisory duties.
