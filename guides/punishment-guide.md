@@ -37,7 +37,6 @@ Note the following:
 | Excessively large avatars that obstruct the view | Server ban | Everyone |
 | Failure to comply by an HR's orders | Server ban | Everyone |
 | Glitching | Server ban | Everyone |
-| Inciting a raid | Server ban | Everyone |
 | Minor death threats | Server ban | Everyone |
 | Spamming | Server ban | Everyone |
 | Threatening an HR | Server ban | Everyone |
@@ -49,6 +48,7 @@ Note the following:
 | Impersonation | Permanent ban | Everyone | 
 | Inappropriate avatar or username | Permanent ban | Everyone |
 | Inappropriate behavior, gestures, or roleplay | Permanent ban | Everyone |
+| Inciting a raid | Permanent ban | Everyone |
 | Joking about serious topics | Permanent ban | Everyone | 
 | Major death threats | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
