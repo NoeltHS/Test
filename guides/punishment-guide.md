@@ -102,8 +102,8 @@ Note the following:
 | Hosting an unofficial shift or training session | Logged warning and a demotion to Customer if repeated | High Ranks |
 | Abusing the group shout | Logged warning or permanent ban | High Ranks |
 | Announcement abuse | Logged warning or a blacklist | High Ranks |
-| Playing with ranking sticks or misusing them | Demotion one rank down | Executive Assistant+ |
 | Trolling or behaving unprofessionally on an alternate account | Demotion and/or blacklist | High Ranks |
 | Minute farming | Demotion to Customer | High Ranks |
+| Playing with ranking sticks or misusing them | Blacklist | Executive Assistant+ |
 | Free ranking | Permanent ban | Executive Assistant+ |
 | Leaking chats or confidential information | Permanent ban | High Ranks |
