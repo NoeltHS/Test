@@ -180,3 +180,4 @@ Supervision is the process in which Board of Directors+ oversee the store to ens
 * Only **Board of Directors+** can supervise.
 * Board of Directors, Executive Assistants, and Store Executives may oversee all store departments and answer any questions guests and staff members may have.
 * A maximum of two HRs may supervise each store department, and HRs are required to spread out when fulfilling their supervisory duties.
+* HRs are encouraged to supervise each store department for 5-7 minutes and then move to another department.
