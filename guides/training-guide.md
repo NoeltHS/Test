@@ -120,7 +120,7 @@ The subsequent stage of training is the Register Test. During this evaluation, L
 {: .text-purple-100 }
 {: .no_toc }
 
-If a group of LRs successfully pass, the trainer should utilize the :ff command on them and take them to one of the designated purple/pink lines in the training room. Subsequently, the Host, Co-Host, or rankers will rank them before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an available Executive Assistant+ for further assistance.
+If a group of LRs successfully pass, the trainer should utilize the :ff command on them and take them to one of the designated purple/pink lines in the training room. Subsequently, the Host, Co-Host, or rankers will rank them before dismissing them from the game. However, if a player disconnects before receiving their rank despite passing the training, trainers should promptly contact an Executive Assistant+ for further assistance.
 
 ### Training Process
 {: .text-blue-000 }
