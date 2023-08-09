@@ -44,6 +44,7 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 > 9.   Greetings should be unique and original. Copying and pasting, adding emojis, and using moderate vocabulary is strongly recommended.
 > 10.  It is recommended to have current or past experience as an MR+ at a prominent establishment. However, current or past experience is not mandatory. 
 > 11.  Store Managers wishing to receive a promotion should not idle once or until their cooldown has ended. Store Manager promotions require a great deal of patience and consistency.
+> 12.  Grammar in the Discord server does not play a role in promotions.
 
 > Keep in mind that these include only some requirements Store Managers must meet.
 
