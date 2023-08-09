@@ -47,7 +47,7 @@ Shifts offer opportunities for Management Interns, Team Leaders, Store Superviso
 ### How can I check my demotion reason?
 {: .text-red-300 }
 {: .no_toc }
-If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an available HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to open a ticket in the main server.
+If you have been demoted and would like to understand the reasons behind your demotion, please send a direct message to an HR. They will be able to provide you with the necessary information. In case you have any additional questions or concerns regarding your demotion, feel free to open a ticket in the main server.
 
 ### Which ranks are permitted to train, host, co-host, and rank at training sessions? 
 {: .text-red-300 }
