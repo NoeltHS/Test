@@ -74,7 +74,7 @@ Tickets in BloxStreet serve the purpose of reporting players, seeking clarificat
 | Asking for an appeal status - check the BloxStreet Staffing Support Discord | 
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
-| Hosting an unofficial shift or training session - ping an available SHR |
+| Hosting an unofficial shift or training session - ping an SHR |
 | Development bugs - report game bugs in [#bugs-and-suggestions](https://discord.com/channels/323081832071561216/1122229192520638514) |
 | Development suggestions - suggest features in [#bugs-and-suggestions](https://discord.com/channels/323081832071561216/1122229192520638514) |
 {:.text-red-200} 
