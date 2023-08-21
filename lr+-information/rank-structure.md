@@ -2,7 +2,7 @@
 layout: default
 title: Rank Structure
 parent: LR+ Information
-nav_order: 4
+nav_order: 5
 ---
 # Rank Structure
 {: .no_toc }
