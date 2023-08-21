@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Rules and Guidelines
+title: Staff Regulations
 parent: LR+ Information
 nav_order: 2
 ---
 
-# Rules and Guidelines 
+# Staff Regulations
 At BloxStreet, it is imperative that staff members abide by a set of regulations in order to enhance the overall shopping experience for our customers. The rules outlined below represent only a fraction of the many guidelines that staff members are expected to observe. For a detailed understanding of the consequences associated with specific offenses, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html).
 
 ## Uniforms
