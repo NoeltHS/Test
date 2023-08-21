@@ -16,7 +16,7 @@ nav_order: 3
 
 The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
 
-* The text in *italics* is intended for trainers to say.
+* The text in __italics__ is intended for trainers to say.
 * The text in **bold** provides instructions on what trainers should do during training sessions.
 
 ## Training Behavior and Information
