@@ -28,6 +28,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Trainee Team Member** 
 {: .text-yellow-300 }
 {: .no_toc }
+- LR rank
 - Newly recruited staff members who have successfully completed the quiz but are not yet fully trained
 - Permitted to work in all store departments, assist in restocking empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
@@ -35,6 +36,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Junior Team Member**
 {: .text-yellow-300 }
 {: .no_toc }
+- LR rank
 - Staff members who have successfully attended and passed one training session
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Have the opportunity to cuff shoplifters by purchasing cuffs for 300 Robux
@@ -43,6 +45,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Senior Team Member**
 {: .text-yellow-300 }
 {: .no_toc }
+- LR rank
 - Staff members who have successfully attended and passed two training sessions
 - Permitted to work in all store departments, restock empty shelves, and clean spills
 - Must attend and satisfactorily complete a training session to be promoted
@@ -50,6 +53,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Management Intern**
 {: .text-yellow-300 }
 {: .no_toc }
+- LR rank
 - Staff members who have attended and passed three training sessions or have earned 500 points
 - Responsible for working in all departments and delivering exceptional customer service
 - Expected to assist with restocking items and cleaning spills
@@ -58,6 +62,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Team Leader** 
 {:.text-blue-200}
 {: .no_toc }
+- MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 800 points in total
 - Responsible for working at store departments, restocking items, and cleaning spills
 - Must first complete their three-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
@@ -66,6 +71,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Store Supervisor** 
 {:.text-blue-200}
 {: .no_toc }
+- MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and issuing warnings to trollers if no HRs are available to contact
 - Granted access to moderator commands and are expected to use them responsibly
@@ -75,6 +81,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Assistant Manager** 
 {:.text-blue-200}
 {: .no_toc }
+- MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 2,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and issuing warnings to trollers if no HRs are available to contact
 - Granted access to moderator commands and are expected to use them responsibly
@@ -84,6 +91,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Store Manager**
 {:.text-blue-200}
 {: .no_toc }
+- MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 5,000 points in total
 - Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, issuing warnings to trollers if no HRs are available to contact, and participating in training sessions to assist in the training of LRs
 - Granted access to moderator commands and are expected to use them responsibly
@@ -93,6 +101,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Store Director** 
 {:.text-red-300}
 {: .no_toc }
+- HR rank
 - Staff members who have been recognized by an SHR or have earned 8,000 points
 - Responsible for various tasks, including working at departments, serving customers, participating in training sessions to assist in the training of LRs, banning rule violators in the store, hosting shifts, restocking items, and cleaning spills
 - Granted access to admin commands and are expected to use them responsibly
@@ -102,6 +111,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Board of Directors**
 {:.text-red-300}
 {: .no_toc }
+- HR rank
 - Staff members who have been recognized by an SHR or have earned 12,000 points
 - Responsible for various tasks, including working at departments or overseeing store operations to ensure smooth functioning, banning rule violators, training LRs, hosting and co-hosting trainings and shifts, restocking items, and cleaning spills
 - Granted access to admin commands and are expected to use them responsibly
@@ -111,6 +121,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Executive Assistant**
 {:.text-red-300}
 {: .no_toc }
+- HR rank
 - Staff members who have been recognized by an SHR or have earned 40,000 points
 - Responsible for various tasks, including working at departments or overseeing store operations to ensure smooth functioning, banning rule violators, training LRs, hosting, co-hosting, and ranking at trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
@@ -121,6 +132,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 ### **Store Executive** 
 {:.text-red-300}
 {: .no_toc }
+- HR rank
 - Staff members who have been recognized by an SHR or have earned 50,000 points
 - Responsible for various tasks, including working at departments or overseeing store operations to ensure smooth functioning, banning rule violators, training LRs, hosting, co-hosting, and ranking at trainings, hosting and ranking at shifts, restocking items, and cleaning spills
 - Authorized to independently host trainings
