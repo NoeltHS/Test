@@ -2,7 +2,7 @@
 layout: default
 title: Policies
 parent: LR+ Information
-nav_order: 6
+nav_order: 5
 ---
 # Policies
 {: .no_toc }
