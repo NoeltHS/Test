@@ -74,7 +74,7 @@ In order to go off-duty, run the command !stopwork in the chat. In order to go o
 {: .no_toc }
 Professionalism while off-duty is required, as staff members are still representing BloxStreet. HRs are not permitted to go off-duty, as they have additional responsibilities and can order or check out from staff members while on-duty.
 
-### Who can purchase cuffs for what price?
+### Who can purchase cuffs and for what price?
 {: .text-red-300 }
 {: .no_toc }
 Junior Team Member+ can purchase cuffs for 300 Robux.
@@ -103,6 +103,41 @@ In order to hide commands, run **/e (command)**. You may also utilize the comman
 {: .text-red-300 }
 {: .no_toc }
 All players, irrespective of whether they purchased a rank, are required to adhere to all rules and regulations. Any individual who fails to comply with the guidelines will face identical moderation actions as others, which may include demotions, blacklists, and permanent bans.
+
+### Can I get my rank back after resigning?
+{: .text-red-300 }
+{: .no_toc }
+Once a staff member resigns, it is considered final. BloxStreet does not offer reranks if a player changes their mind after resigning. As a result, it is strongly advised that players carefully consider their decision to resign, as it is an irreversible action. However, SHRs have the possibility to return to BloxStreet under certain circumstances.
+
+### Can I transfer my rank to another account?
+{: .text-red-300 }
+{: .no_toc }
+Staff members are permitted to transfer their rank to a different account, but this action can only be performed once. If a staff member intends to transfer their rank, they should open a ticket in the BloxStreet Discord server for assistance.
+
+### Can I transfer my rank to another account if I am hacked?
+{: .text-red-300 }
+{: .no_toc }
+BloxStreet does not offer rank transfers in cases where an account has been hacked. It is the player’s responsibility to ensure the safety and security of their account. Staff members are held fully accountable for the security of their own accounts. In the event that a staff member’s account has been compromised, it is crucial for them to promptly inform an SHR through a ticket.
+
+### Can I transfer my rank if my account gets deleted?
+{: .text-red-300 }
+{: .no_toc }
+Staff members whose accounts are deleted have the option to transfer their rank to a different account if their ban is deemed false by a Junior Moderator+. The Junior Moderator+ has the authority to assess whether it is appropriate for an individual’s rank to be transferred to another account when their original account is deleted. We acknowledge that Roblox moderation can fall short of complete accuracy, and as a result, we provide individuals with the chance to transfer their rank to an alternate account if their main account gets deleted.
+
+### What is the investigation policy at BloxStreet?
+{: .text-red-300 }
+{: .no_toc }
+In the event that an SHR is conducting an investigation into a community member, the SHR has the authority to temporarily demote the player to the rank of Customer until the investigation is concluded. Furthermore, the SHR has the right to remove any Discord roles from the player while the investigation is ongoing. Once the investigation is finalized, the SHR will take appropriate action or re-rank the player(s) involved. Moreover, SHRs who are conducting investigations have the right to pose questions to the individuals involved, and it is expected that those individuals respond truthfully. However, SHRs are not obligated to provide evidence to the players who are undergoing an investigation.
+
+### What is the plagiarism policy at BloxStreet?
+{: .text-red-300 }
+{: .no_toc }
+Intentionally copying official BloxStreet materials, encompassing, but not limited to, our forms, guides, documents, server layout, GFX, and game, may lead to, at the very least, a termination, a staff blacklist, and/or a ban from the BloxStreet Discord server. Neglecting to report such plagiarism despite being aware can also lead to consequences. It is expected that establishments throughout Roblox foster originality, which prohibits the replication of BloxStreet’s resources for personal gain.
+
+### Can I play BloxStreet on an alternate account?
+{: .text-red-300 }
+{: .no_toc }
+Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxStreet’s guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
 
 ### I purchased a BloxStreet product, and I am not satisfied with it. Can I receive a refund?
 {: .text-red-300 }
