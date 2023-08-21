@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Staff Regulations
-parent: Staff Information
+parent: LR+ Information
 nav_order: 1
 ---
 
