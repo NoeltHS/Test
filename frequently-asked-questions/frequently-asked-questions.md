@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Frequently Asked Questions
+title: LR+ Information
 nav_order: 3
 has_children: true
-permalink: /Frequently-Asked-Questions
+permalink: /LR-+-Information
 ---
 
-# Frequently Asked Questions
+# LR+ Information
