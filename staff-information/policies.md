@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policies
-parent: Staff Information
+parent: LR+ Information
 nav_order: 6
 ---
 # Policies
