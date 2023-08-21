@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Punishment Guide
-parent: Guides
+parent: LR+ Information
 nav_order: 3
 ---
 # Punishment Guide
