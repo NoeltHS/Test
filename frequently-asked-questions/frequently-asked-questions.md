@@ -144,6 +144,26 @@ Yes.
 {: .no_toc }
 Yes. 
 
+### How can I get unblacklisted or unbanned?
+{: .text-red-300 }
+{: .no_toc }
+In order to get unblacklisted or unbanned, submit an appeal through [this form](https://bit.ly/blacklistbanappeals). Ensure all requirements are met before submitting the form.
+
+### How can I get unbanned from BloxStreet’s Discord server? 
+{: .text-red-300 }
+{: .no_toc }
+In order to get unbanned from BloxStreet’s Discord server, submit an appeal through [this form](https://bit.ly/discordbanappeals). Ensure all requirements are met before submitting the form. 
+
+### Where can I find my appeal result?
+{: .text-red-300 }
+{: .no_toc }
+In order to find your appeal result, join the [BloxStreet Staffing Support server](https://discord.gg/mCT4BxCcuk) and head to the [#appeal-status](https://discord.com/channels/952320451827347537/952325607251902494) channel.
+
+### How can I ally with BloxStreet? 
+{: .text-red-300 }
+{: .no_toc }
+In order to ally with BloxStreet, fill out [this form](https://bit.ly/bloxstreetallianceapplication). Ensure all requirements are met before submitting the form. 
+
 ### Can I become a developer or a moderator for BloxStreet?
 {: .text-red-300 }
 {: .no_toc }
