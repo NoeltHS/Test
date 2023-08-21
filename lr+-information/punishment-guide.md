@@ -2,7 +2,7 @@
 layout: default
 title: Punishment Guide
 parent: LR+ Information
-nav_order: 6
+nav_order: 7
 ---
 # Punishment Guide
 {: .no_toc }
