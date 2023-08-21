@@ -69,7 +69,7 @@ At :45, which is 15 minutes before the training session begins, the Host should 
 After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
 
 **Host, Co-Host, and/or Rankers:** *Hello! Please state all green lines found on the training guide. There are three in total.*
-{: .text-red-100 } 
+{: .text-red-200 } 
 
 **Host, Co-Host, and/or Rankers:** *Thank you! Please note that the green lines are also used when you are training LRs.*
 
