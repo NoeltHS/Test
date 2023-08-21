@@ -16,8 +16,9 @@ nav_order: 3
 
 The objective of this guide is to provide Store Manager+ with instructions on training sessions and offer guidance for effectively training Low Ranks.
 
-* The text in __italics__ is intended for trainers to say.
-* The text in **bold** provides instructions on what trainers should do during training sessions.
+* The text in **red italics** is intended for the host, co-host, rankers, or trainers to say.
+* The text in **green italics** is intended for the trainers to say during guide checking and while training LRs.
+* The text in **bold** provides instructions on what trainers should do.
 
 ## Training Behavior and Information
 {: .text-red-300 }
@@ -68,6 +69,7 @@ At :45, which is 15 minutes before the training session begins, the Host should 
 After claiming the session and before :00, it is important for the Host, Co-Host, and/or rankers to request trainers to state the three green lines that are found below, ensuring they have access to the correct version of the guide. The Host, Co-Host, and/or rankers should use the messages below.
 
 **Host, Co-Host, and/or Rankers:** *Hello! Please state all green lines found on the training guide. There are three in total.*
+{: .text-red-100 } 
 
 **Host, Co-Host, and/or Rankers:** *Thank you! Please note that the green lines are also used when you are training LRs.*
 
