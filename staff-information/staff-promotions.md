@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Staff Promotions
-parent: Staff Information
+parent: LR+ Information
 nav_order: 4
 ---
 
