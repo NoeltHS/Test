@@ -27,7 +27,7 @@ To increase the likelihood of receiving a promotion, Management Interns, Team Le
 {:.text-red-300}
 When considering promotions from Store Manager to Store Director, as well as promotions within the HR ranks, the administration team takes into account various factors.
 
-To increase the chances of receiving a promotion, Store Managers should be active on all BloxStreet games and its communications server, consistently utilize proper grammar in-game, display professional behavior, and demonstrate dedication. Promotions for Store Managers are at the discretion of Junior Moderator+ and may occur at random times. These promotions are typically more challenging compared to promotions from Management Intern to Assistant Manager, requiring a greater investment of time and effort. Store Managers must prove to SHRs that they are fully prepared to undertake the responsibilities of an HR role.
+To increase the chances of receiving a promotion, Store Managers should be active on all BloxStreet games and its Discord server, consistently utilize proper grammar in-game, display professional behavior, and demonstrate dedication. Promotions for Store Managers are at the discretion of Junior Moderator+ and may occur at random times. These promotions are typically more challenging compared to promotions from Management Intern to Assistant Manager, requiring a greater investment of time and effort. Store Managers must prove to SHRs that they are fully prepared to undertake the responsibilities of an HR role.
 
 ### **Store Manager Promotion Guide:**
 {:.text-blue-000}
@@ -36,7 +36,7 @@ To increase the chances of receiving a promotion, Store Managers should be activ
 > 1.   Store Managers must utilize proper grammar in all BloxStreet games.
 > 2.   Store Managers must possess a certain number of characteristics, such as professionalism, maturity, and respect.
 > 3.   Having past moderation history will significantly decrease an individual's chances of a promotion to an HR rank. However, past moderation history will not restrict a player from earning an HR rank.
-> 4.   Store Managers wishing to receive a promotion should remain active in the communications server. Talking in channels and attending events does help.
+> 4.   Store Managers wishing to receive a promotion should remain active in the BloxStreet Discord server. Talking in channels and attending events does help.
 > 5.   Store Managers should work frequently at the store and attend training sessions. It is highly recommended to remain consistent with activity. For example, spend an hour at the store each day rather than seven hours one day and then a break for a week. Additionally, attend a reasonable number of training sessions. Be sure to work at a department when at the store. Going off-duty, supervising, cleaning spills, or restocking items will not increase an individual's chances of a promotion.
 > 6.   Avoid sucking up to SHRs for a promotion. Store Managers may be rank locked from obtaining Store Director if caught simping. 
 > 7.   Hinting for a promotion will not benefit one in any way. Doing so will result in a logged warning and a demotion to Customer if repeated.
