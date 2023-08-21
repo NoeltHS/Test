@@ -23,7 +23,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 {: .text-red-300 }
 
 * Trainers should avoid rushing through the script. Provide sufficient time for LRs to read and process the information being presented.
-* MRs and HRs should refrain from engaging in conversations and instead utilize the communications server.
+* MRs and HRs should refrain from engaging in conversations and instead utilize the BloxStreet Discord server.
 * Engaging in any form of unprofessional behavior will result in immediate dismissal from the session and potential disciplinary actions.
 * Although Store Managers are not required to use grammar at the store, they are required to when training LRs. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
