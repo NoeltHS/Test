@@ -270,6 +270,6 @@ After guiding their LRs to a purple ranking line, trainers should leave the Trai
 
 ## Training Conclusion
 {: .text-red-300 }
-Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. In case there are any players still lingering, encourage them to head to the store. **Nothing else should be happening after training sessions. Photos for the Host, Co-Host, and rankers only are not permitted after training sessions**. If there is an abundance of players remaining in the server, an SHR should initiate a shutdown or run the command :place all.
+Upon the completion of the training session, there should be no LRs remaining, and only a few HRs should be present. It is crucial for all trainers to leave the server once their training duties are fulfilled. In case there are any players still lingering, encourage them to head to the store. Nothing else should be happening after training sessions. Photos for the Host, Co-Host, and rankers only are not permitted after training sessions. If there is an abundance of players remaining in the server, an SHR should initiate a shutdown or run the command :place all.
 
 The Co-Host should send the final group shout and submit the training attendance through a ticket.
