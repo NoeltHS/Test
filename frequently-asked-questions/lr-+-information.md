@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Questions and Answers
-parent: Frequently Asked Questions
+title: Frequently Asked Questions
+parent: LR+ Information
 nav_order: 1
 ---
 
-# Questions and Answers
+# Frequently Asked Questions
 
 Here, community members can find answers to frequently asked questions.
 
