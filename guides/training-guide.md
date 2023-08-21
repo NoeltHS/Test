@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Guide
-parent: Guides
+parent: MR+ Information
 nav_order: 3
 ---
 
