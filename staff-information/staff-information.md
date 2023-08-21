@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Staff Information
+title: Alliance Information
 nav_order: 5
 has_children: true
-permalink: /staff-information 
+permalink: /alliance-information 
 ---
 
-# Staff Information
+# Alliance Information
