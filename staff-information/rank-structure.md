@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rank Structure
-parent: Staff Information
+parent: LR+ Information
 nav_order: 5
 ---
 # Rank Structure
