@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Guides
+title: MR+ Information
 nav_order: 4
 has_children: true
-permalink: /guides
+permalink: /MR-+-Information
 ---
 
-# Guides
+# MR+ Information
  
