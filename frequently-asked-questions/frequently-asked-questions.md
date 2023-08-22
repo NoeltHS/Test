@@ -2,7 +2,7 @@
 layout: default
 title: Frequently Asked Questions
 parent: LR+ Information
-nav_order: 3
+nav_order: 1
 ---
 
 # Frequently Asked Questions
