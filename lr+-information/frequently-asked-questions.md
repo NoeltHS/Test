@@ -62,7 +62,7 @@ Staff members can earn one point for each successful restock, two points for eac
 ### What are BloxStreet’s uniform policies?
 {: .text-red-300 }
 {: .no_toc }
-In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxstreet.store/staff-information/staff-regulations.html).
+In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxstreet.store/lr+-information/staff-regulations.html).
 
 ### How can I go off-duty and on-duty?
 {: .text-red-300 }
