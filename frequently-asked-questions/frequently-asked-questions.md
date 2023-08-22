@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Frequently Asked Questions
-parent: Frequently Asked Questions
 nav_order: 2
 has_children: false
 permalink: /FAQ
