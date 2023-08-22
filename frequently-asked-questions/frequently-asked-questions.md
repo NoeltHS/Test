@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Frequently Asked Questions
-parent: LR+ Information
+parent: Frequently Asked Questions
 nav_order: 1
+has_children: false
+permalink: /FAQ
 ---
 
 # Frequently Asked Questions
