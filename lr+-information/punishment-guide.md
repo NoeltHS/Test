@@ -66,7 +66,6 @@ Note the following:
 | Wearing the incorrect uniform | Verbal warning | Staff |
 | Crowding (5+ players) | Verbal warning and then a server ban | Staff |
 | Hinting for/complaining about a promotion | Logged warning and a demotion to Customer if repeated | Staff |
-| Point grinding | Logged warning and a demotion to Customer if repeated | Staff |
 | Advertising in-game | Demotion to Customer | Low Ranks |
 | Disrespecting, arguing, or ignoring an HR | Demotion to Customer | Staff |
 | Unprofessionalism (trolling, spamming, refusing to wear the correct uniform, dancing or standing on elevated surfaces, etc.) | Demotion to Customer | Low Ranks |
