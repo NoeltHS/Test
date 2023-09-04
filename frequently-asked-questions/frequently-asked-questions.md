@@ -33,7 +33,7 @@ Players who claim ranks through the points system do not face a cooldown period 
 ### What are some examples of point cheating?
 {: .text-red-300 }
 {: .no_toc }
-Some examples of point cheating include using an alternate account in an attempt to obtain points, joining a small server in an attempt to grind tasks, and taking items off of a shelf and restocking them shortly after.
+Point cheating encompasses actions such as using alternate accounts or enlisting friends to accumulate points, joining a small server to expedite task completion, and removing items from shelves only to restock them shortly afterward.
 
 ### Which ranks receive access to moderator and admin commands?
 {: .text-red-300 }
