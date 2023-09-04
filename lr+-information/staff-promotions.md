@@ -71,7 +71,7 @@ Working at the store while on cooldown will increase an individual's chances of 
 
 ## Points 
 {:.text-red-300}
-Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point grinding or cheating is strictly prohibited and will be met with severe consequences. The specific amount of points required to claim each rank can be found in the list provided below.
+Players have the opportunity to rank up by earning points, which can be used to claim a higher rank through the 'Shop' GUI. Photoshopping evidence or engaging in point cheating is strictly prohibited and will be met with severe consequences. The specific amount of points required to claim each rank can be found in the list provided below.
 
 | Points | 
 |:----------|
