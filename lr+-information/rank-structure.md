@@ -73,7 +73,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 {: .no_toc }
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 1,000 points in total
-- Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and issuing warnings to trollers if no HRs are available to contact
+- Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
 - Granted access to moderator commands and are expected to use them responsibly
 - Must first complete their three-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 2,000 points in total to be promoted
@@ -83,7 +83,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 {: .no_toc }
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 2,000 points in total
-- Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and issuing warnings to trollers if no HRs are available to contact
+- Responsible for various tasks, including working at departments, serving customers, restocking items, and cleaning spills
 - Granted access to moderator commands and are expected to use them responsibly
 - Must first complete their five-day cooldown period and then be recognized by a shift host or an SHR outside of a shift to be promoted
 - Can also earn 5,000 points in total to be promoted
@@ -93,7 +93,7 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 {: .no_toc }
 - MR rank
 - Staff members who have been recognized by a shift host or an SHR or have earned 5,000 points in total
-- Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, issuing warnings to trollers if no HRs are available to contact, and participating in training sessions to assist in the training of LRs
+- Responsible for various tasks, including working at departments, serving customers, restocking items, cleaning spills, and participating in training sessions to assist in the training of LRs
 - Granted access to moderator commands and are expected to use them responsibly
 - Must first complete their two-week cooldown period and then be recognized by an SHR to be promoted
 - Can also earn 8,000 points in total to be promoted
