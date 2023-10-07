@@ -17,7 +17,7 @@ Below is a compilation of BloxStreet's punishments. Certain punishments only per
 
 Note the following:
 - Higher ranks may be subject to more severe punishments.
-- All punishments are subject to change depending on the severity of the community member's actions.
+- All punishments are subject to change depending on the severity of the community member's actions. Only SHRs may change a punishment from what is listed below.
 - Lack of awareness regarding the rules does not exempt an individual from receiving a punishment.
 - Certain punishments designated for staff members may also be applicable to non-staff.
 - Not all punishments are explicitly listed in this document. It is expected that community members exercise common sense.
