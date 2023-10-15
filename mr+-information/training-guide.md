@@ -29,6 +29,7 @@ The objective of this guide is to provide Store Manager+ with instructions on tr
 * Although Store Managers are not required to use grammar at the store, they are required to when training LRs. The punishment for HRs lacking grammar also applies to Store Managers in this situation.
 * It is acceptable for a trainer to claim another trainer's position if one disconnects prior to the teleportation of LRs.
 * LRs are permitted to go AFK for a maximum duration of two minutes, although they must inform their trainer about their temporary absence. LRs are allowed to go AFK only twice per session.
+* Under no circumstances is it permitted to falsely inform LRs that they failed and then later state they passed. Please be direct when conveying your intent to pass LRs.
 
 ## Rank Information
 {: .text-red-300 }
