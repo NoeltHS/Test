@@ -68,7 +68,7 @@ Staff members can earn one point for each successful restock, two points for eac
 ### What are BloxStreet’s uniform policies?
 {: .text-red-300 }
 {: .no_toc }
-In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxstreet.store/lr+-information/staff-regulations.html).
+In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxstreet.com/lr+-information/staff-regulations.html).
 
 ### How can I go off-duty and on-duty?
 {: .text-red-300 }
@@ -169,11 +169,6 @@ The ticket system should not be used for many reasons, including bugs and sugges
 {: .text-red-300 }
 {: .no_toc }
 To update your roles in the Discord server, run the command **/getrole** in [#bot-commands](https://discord.com/channels/323081832071561216/600727310890565644).
-
-### Jupiter or TSA seem to be down. Where can I find the status of all Jupiter and TSA services?
-{: .text-red-300 }
-{: .no_toc }
-The status of all Jupiter and TSA services can be found [here](https://status.bloxstreet.store/).
 
 ### Are previously blacklisted and banned individuals, as well as reformed and resigned HRs, allowed to utilize their points to claim a rank they have not previously acquired?
 {: .text-red-300 }
