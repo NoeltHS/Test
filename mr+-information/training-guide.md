@@ -307,9 +307,6 @@ At this point, all LRs are required to jump. If an LR fails to jump in a timely 
 **Trainer:** *If you encounter any trollers at the store, it is necessary to inform an available Store Director+.*
 {: .text-red-200 } 
 
-**Trainer:** *Additional information about BloxStreet can be found on our website at support.bloxstreet.store.*
-{: .text-red-200 } 
-
 **Trainer:** *For any further inquiries, please make sure to join our communications server using the code 'bloxstreet'.*
 {: .text-red-200 } 
 
