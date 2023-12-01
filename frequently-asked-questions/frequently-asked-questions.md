@@ -213,4 +213,4 @@ The Public Relations Department handles BloxStreet's events and partnerships. [a
 ### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles HR reforms, HR inactivity notices, and punishment appeals. [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Lead of Staffing, and [discentted](https://www.roblox.com/users/84690789/profile) is the Co-Lead of Staffing. [beats_cerz](https://www.roblox.com/users/255097090/profile), [fvdedfaiyaz](https://www.roblox.com/users/43745580/profile), and [Natnicxox](https://www.roblox.com/users/2373196423/profile) are Assistants of Staffing.
+The Staffing Department handles HR reforms, HR inactivity notices, and punishment appeals. [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Lead of Staffing, and [discentted](https://www.roblox.com/users/84690789/profile) is the Co-Lead of Staffing. [fvdedfaiyaz](https://www.roblox.com/users/43745580/profile) and [Natnicxox](https://www.roblox.com/users/2373196423/profile) are Assistants of Staffing.
