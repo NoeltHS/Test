@@ -208,9 +208,9 @@ No.
 ### What is the Public Relations Department?
 {: .text-red-300 }
 {: .no_toc }
-The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations. [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) is the Upper Management of Public Relations, and [teeaiia](https://www.roblox.com/users/1599452692/profile) is an Assistant of Public Relations.
+The Public Relations Department handles BloxStreet's events and partnerships. [avnemone](https://www.roblox.com/users/293019760/profile) is the Lead of Public Relations. [pastxlmoonlixht](https://www.roblox.com/users/393587085/profile) is the Upper Management of Public Relations, and [shakybreath](https://www.roblox.com/users/1599452692/profile) is an Assistant of Public Relations.
 
 ### What is the Staffing Department?  
 {: .text-red-300 }
 {: .no_toc }
-The Staffing Department handles HR reforms, HR inactivity notices, and punishment appeals. [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Lead of Staffing, and [discentted](https://www.roblox.com/users/84690789/profile) is the Co-Lead of Staffing. [fvdedfaiyaz](https://www.roblox.com/users/43745580/profile) and [Natnicxox](https://www.roblox.com/users/2373196423/profile) are Assistants of Staffing.
+The Staffing Department handles HR reforms, HR inactivity notices, and punishment appeals. [KAIT0_KlD](https://www.roblox.com/users/1992149839/profile) is the Lead of Staffing, and [discentted](https://www.roblox.com/users/84690789/profile) is the Co-Lead of Staffing. [FlowersInAntarctica](https://www.roblox.com/users/218008636/profile), [fvdedfaiyaz](https://www.roblox.com/users/43745580/profile), and [Natnicxox](https://www.roblox.com/users/2373196423/profile) are Assistants of Staffing.
