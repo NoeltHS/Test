@@ -93,7 +93,7 @@ Staff members should not cuff trollers. Instead, they should contact an HR throu
 ### How many staff members can work at the help desk? Are staff members required to own cuffs to work at the help desk?
 {: .text-red-300 }
 {: .no_toc }
-A maximum of two staff members are allowed to assist at the help desk. Staff members are not required to own cuffs to work at the help desk.
+A maximum of one staff member is allowed to assist at the help desk. Staff members are not required to own cuffs to work at the help desk.
 
 ### Which ranks can supervise at the store? Are there supervision guidelines?
 {: .text-red-300 }
