@@ -52,7 +52,6 @@ Note the following:
 | Joking about serious topics | Permanent ban | Everyone | 
 | Major death threats | Permanent ban | Everyone |
 | Offensive language | Permanent ban | Everyone |
-| Playing inappropriate or loud audios | Permanent ban | Everyone |
 | Raiding | Permanent ban | Everyone |
 | Encouragement of suicide or self-harm | Permanent ban | Everyone |
 | Threatening an SHR | Permanent ban | Everyone |
