@@ -13,12 +13,6 @@ You can find a comprehensive list of BloxStreet's ranks and their descriptions b
 {: .no_toc }
 - Holds the lowest rank within the group and are regular players who have the ability to shop at the store, make purchases, and request items from staff members
 
-### **Allied Representative** 
-{: .text-purple-100 }
-{: .no_toc }
-- Representatives for BloxStreet's alliances
-- Not attainable by regular members and is exclusively reserved for partnership representatives
-
 ### **Noted Customer**
 {: .text-purple-100 }
 {: .no_toc }
